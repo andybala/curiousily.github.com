@@ -17,7 +17,7 @@ title: Curiousily
 email: venelin@curiousily.com
 description: "The curious quest of one fooled by randomness"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://curiousily.com/" # the base hostname & protocol for your site
+url: "http://curiousily.com" # the base hostname & protocol for your site
 twitter_username: curiousily
 github_username: curiousily
 
