@@ -30,3 +30,9 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+
+google_analytics: UA-63986975-1
+
+disqus:
+  shortname: curiousily
