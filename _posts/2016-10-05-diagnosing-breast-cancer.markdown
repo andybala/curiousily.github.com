@@ -3,7 +3,7 @@ layout: post
 title:  "Diagnosing Breast Cancer from image data"
 date:   2016-10-05 11:47:43 +0300
 categories: ["data-science"]
-excerpt: "Let's find out if breast lump is benign or malignant with a dataset containing features of digitized biopsy images. We will train K-means clustering model to classify the type of tumor. All this using R!"
+excerpt: "Let's find out if a breast lump is benign or malignant with a dataset containing features of digitized biopsy images. We will train K-means clustering model to classify the type of tumor. All this using R!"
 ---
 
 Detecting breast (or any other type of) cancer before noticing symptoms is a key first step in fighting the disease. The process involves examining breast tissue for lumps or masses. Fine needle aspirate (FNA) biopsy is performed if such irregularity is found. The extracted tissue is then examined under a microscope by a clinician.
