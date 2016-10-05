@@ -480,4 +480,4 @@ train_and_evaluate(df_normalized_train, df_normalized_validation,
 
 Our final accuracy is about 95%. What does this mean? If our model was to replace a doctor it would missclassify 6 malignant tumors as benign. This is bad! The other type of error (missclassifying benign tumor as malignant) is pretty bad too! So, improvement to the accuracy (in any way) might save lives! Can you improve the model?
 
-P.S. This post was written as ipython notebook. Download it from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/1.diagnosing_breast_cancer.ipynb). The dataset can be download from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/data/breast_cancer.csv).
+P. S. This post was written as an ipython notebook. Download it from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/1.diagnosing_breast_cancer.ipynb). The dataset can be download from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/data/breast_cancer.csv).
