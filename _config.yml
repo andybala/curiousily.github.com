@@ -37,3 +37,10 @@ google_analytics: UA-63986975-1
 
 disqus:
   shortname: curiousily
+
+paginate: 5
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
