@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diagnosing Breast Cancer from image data"
+title:  "Diagnosing Breast Cancer from Image Data"
 date:   2016-10-05 11:47:43 +0300
 categories: ["data-science"]
 excerpt: "Let's find out if a breast lump is benign or malignant with a dataset containing features of digitized biopsy images. We will train K-means clustering model to classify the type of tumor. All this using R!"
