@@ -5,8 +5,8 @@
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   21px;
-$base-font-weight: 400;
+$base-font-size:   18px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -40,6 +40,20 @@ img[alt=png] {
 iframe {
     margin: 2%;
 }
+
+table {
+    width: 100%;
+    display: table;
+    border-color: grey;
+}
+
+thead {
+    background-color: #E3F2FD;
+    border-bottom: 1px solid #bdc1c4;
+    display: table-header-group;
+    vertical-align: middle;
+}
+
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:

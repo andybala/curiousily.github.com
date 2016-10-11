@@ -13,7 +13,7 @@ You heard the hype, right? Machine learning and more specifically **Deep Learnin
 First, try to watch this:
 
 <div class="center">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/HJ58dbd5g8g" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/HJ58dbd5g8g" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Ok, you got me! I don't really know and for that matter, nobody really does. But that is not really useful answer now, is it? Let's try that again: Deep Learning is a branch of Machine Learning that tries to move us closer to AI (or General AI). One can simplify things a bit and say: an Artificial Neural Network (ANN) with more than 1 hidden layer. Let's take a look at one ANN:
@@ -36,14 +36,14 @@ Large amounts of data (not necessarily labeled) are typically needed in order to
 
 ### Who uses Deep Learning and for what?
 
-Below list is by no means complete! Feel free to provide new interesting examples in the comments below.
+The list Below is by no means complete! Feel free to provide new interesting examples in the comments below.
 
 #### **Automatic Machine Translation**
 
 The task here is simple (or so it seems at first): given a word, phrase, sentence or whole document in let's say, French, translate it into English. How hard can it be? Some humans are pretty good at it, right? But what if you had an instant translator in your pocket, everywhere you go? Furthermore, what if it can translate from images? Well, that seems possible with Deep Learning:
 
 <div class="center">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/06olHmcJjS0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/06olHmcJjS0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 #### **Deep Reinforcement Learning is used for playing games**
@@ -51,7 +51,7 @@ The task here is simple (or so it seems at first): given a word, phrase, sentenc
 Like playing Atari only from screen pixels and beating humans on Go
 
 <div class="center">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/TmPfTpjtdgg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/TmPfTpjtdgg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 # Building a Neural Network
