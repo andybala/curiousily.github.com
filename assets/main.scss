@@ -42,13 +42,14 @@ iframe {
 }
 
 table {
+    text-align: center;
     width: 100%;
     display: table;
     border-color: grey;
 }
 
 thead {
-    background-color: #E3F2FD;
+    background-color: #EEF;
     border-bottom: 1px solid #bdc1c4;
     display: table-header-group;
     vertical-align: middle;

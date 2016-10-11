@@ -8,7 +8,7 @@ excerpt: "We will try to predict the sale price of houses in King County, USA us
 
 So you have a house for sale or buying one? What is a fair price for it? Can we predict it correctly?
 
-Let's use the "House Sales in King County" data available at Kaggle to answer the question. Each row of the dataset contains information about a home sold between May 2014 and May 2015 along with the price in US dollars. Some of the other features include:
+Let's use the "House Sales in King County" data available at [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction) to answer that question. Each row of the dataset contains information about a home sold between May 2014 and May 2015 along with the price in US dollars. Some of the other features include:
 
 * bedrooms - number of bedrooms
 * bathrooms - number of bathrooms
