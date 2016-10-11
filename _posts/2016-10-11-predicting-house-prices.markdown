@@ -98,20 +98,9 @@ It looks like everything is in here! Great!
 
 The following awesome maps were created by [Thierry Ellena](https://harlfoxem.github.io/). Let's have a look at them:
 
-[House locations](https://harlfoxem.github.io/houses.html)
-<div class="center">
-    <iframe width="100%" height="420" src="https://harlfoxem.github.io/houses.html" frameborder="0" allowfullscreen></iframe>
-</div>
-
-[Number of houses by zipcode](https://harlfoxem.github.io/count.html)
-<div class="center">
-    <iframe width="100%" height="420" src="https://harlfoxem.github.io/count.html" frameborder="0" allowfullscreen></iframe>
-</div>
-
+[House locations](https://harlfoxem.github.io/houses.html) <br/>
+[Number of houses by zipcode](https://harlfoxem.github.io/count.html) <br/>
 [Price by zipcode](https://harlfoxem.github.io/price.html)
-<div class="center">
-    <iframe width="100%" height="420" src="https://harlfoxem.github.io/price.html" frameborder="0" allowfullscreen></iframe>
-</div>
 
 Let's look at the distribution of house condtion, grade and price:
 
