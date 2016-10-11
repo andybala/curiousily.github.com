@@ -319,7 +319,7 @@ rpart.plot(tree_fit, digits = 4, fallen.leaves = TRUE,
 
 It seems that the grade, location (lat, long), square feet are important factors for deciding the price of a house.
 
-# Fitting a xgbTree tree model
+# Fitting a xgbTree model
 
 That was a good first attempt. Ok, it wasn't even good. So, can we do better? Let's try an ensemble of boosted trees. For good intro to boosted trees see: [Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/model.html).
 
