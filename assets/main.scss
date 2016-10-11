@@ -45,7 +45,9 @@ table {
     text-align: center;
     width: 100%;
     display: table;
-    border-color: grey;
+    border-color: $grey-color;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 thead {
