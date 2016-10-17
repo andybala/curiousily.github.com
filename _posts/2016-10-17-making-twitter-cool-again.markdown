@@ -407,6 +407,8 @@ One could easily imagine using the trained model for making personalized recomme
 
 The LDA is very general and can be applied to any set of documents. Why not try it on papers, news or Facebook posts?
 
+P. S. This post was written as an ipython notebook. Download it from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/3.making_twitter_cool_again.ipynb). The dataset can be download from [here](https://github.com/curiousily/curiousily.github.com/blob/master/_data/notebooks/data/tweets.csv).
+
 # References
 
 * [Basic Text Mining in R](https://rstudio-pubs-static.s3.amazonaws.com/31867_8236987cf0a8444e962ccd2aec46d9c3.html)
