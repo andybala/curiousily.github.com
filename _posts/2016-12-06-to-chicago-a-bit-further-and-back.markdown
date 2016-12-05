@@ -42,6 +42,20 @@ On the next day, we visited the downtown again. This time, only to board a ferry
 
 #### Niagara Falls
 
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_1.jpg)
+*Can you believe this is real?*
+
+We went to the Niagara Falls and it was simply amazing! Just go there!
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_2.jpg)
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_3.jpg)
+*Still Niagara. Yeah, I know :)*
+
 # New York, New York, New York...
 
 #### Central Park
@@ -83,6 +97,8 @@ On the next day, we visited the downtown again. This time, only to board a ferry
 #### On Working Out
 
 #### On Sleeping
+
+# What should've done more?
 
 # Where to Next?
 
