@@ -98,7 +98,68 @@ Today was a good day (at Central Park). NYC didn't dissapoint. Central Park was 
 
 # L.A.
 
+We arrived pretty late and had to return the car we rented. The drop zone was LAX and the traffic was horrific. My first drive in the USA had pretty stressful end. But it was ok after all.
+
+We filled up the car right before leaving it and used a shuttle to the airport. The question was how to get to downtown from there? We asked around and a shuttle service was offered to us. What a mistake! The ticket was 17$ and we waited for like an hour before a shuttle to downtown arrived. After a good hour later we were in front of our hotel (something more like a motel...). Lesson learned: use Uber or Lyft for LAX <-> Downtown. I believe it would've been cheaper and faster.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/la_1.jpg)
+*Just another sunny day in Cali*
+
+
+On the next day, I was waiting to see a police vehicle. There was this song that was spinning in my head. Over and over again. Yes, it originated from Campton.
+
+Downtown L.A. was pretty much meh... Lots of homeless and mentally ill people were all around. Pretty sad picture... We went to Union Station to confirm our bus station for Las Vegas. While there were some amazing sights along the way...
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/la_2.jpg)
+*Somebody was already taking a shower!*
+
+There was this park (and surroundings) right next to Union Station, filled with homeless people. It was like nobody was seeing them. Huh, was that ok!? Nope! It really felt like a 3rd world country in there.
+
+Later, we decided to visit the big park above Holywood right about when the sunset was starting it looked like this:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/la_3.jpg)
+*A distant look at L.A.*
+
 # Vegas (Huh? Never thought I was into gambling...)
+
+The only reason we visited Vegas was the Grand Canyon. You can tell I was pretty skeptical about the trip. There were few surprises along the way, though.
+
+Our bus dropped us something like 5+ km from our hotel. There were literally no people around. It was Vegas, there should be people everywhere, right? 
+
+We only had one backpack. So, we took a walk through some parts of Vegas. It was a walk among so many homeless people. In Vegas!?
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_1.jpg)
+*I always thought that the first person I see was going to be someone else*
+
+Well, someone was definitely there to welcome us :) He was pretty cute, too!
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_2.jpg)
+*Say hi to Skipper. And don't mind my torn sneaker, please!*
+
+IndyCar was in town and that was a little bonus along the way:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_3.jpg)
+*The early retirement was most probably caused by a poor choice of sponsor*
+
+Finally, we checked in our hotel and were ready for exploration.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_4.jpg)
+*Las Vegas is beautfiul?*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_5.jpg)
+*Impatiently waiting for the next show*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_6.jpg)
+*How's that view for a cheap dinner from Chipotle? And we were all alone!*
 
 #### The Canyon
 
