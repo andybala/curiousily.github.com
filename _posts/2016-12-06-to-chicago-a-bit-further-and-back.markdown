@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "To Chicago (a bit further) and back"
+date:   2016-12-05 12:32:00 +0300
+categories: ["travel"]
+excerpt: "A geek's adventure guide to Silicon Valley and a few more stops. Ready to ride the Caltrain?"
+---
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_hq.jpg)
+*A glimpse at Google Headquarters*
+
+I was standing in the middle of it. I couldn’t believe it. Could you blame me? I wanted to go there for like 5 or more years. And here it was, pretty epic stuff! But let’s start from the beginning, shall we?
+
+# Can You Really Do It?
+
+So what is this all about? Is it that hard to visit the valley? Not at all! Well, maybe it is hard if you need a Visa to visit the states. Yep, living in a relatively unknown country can be both great and a hiccup at times. Truth be told, it wasn't that hard to obtain a tourist Visa. So I won't bother you with the details.
+
+# Ready. Set. Fly.
+
+The flight from Sofia to Amsterdam and finally Toronto was living within minutes. I can't describe how exciting that was. Fast forward a bit (it felt like 2 days), we were landing in Toronto. No problems at the border. 
+
+# Welcome to Canada
+
+{:.center} 
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/canada.jpg)
+*Look at that view!*
+
+The flight was ok. Someone was waiting for us at the airport and drove us right to a cute house in the suburbs of Toronto. I went to bed totally exhausted a few hours later.
+
+On the next day, we visited the downtown. Hopped on the CN tower and enjoyed an amazing view. A quick walk around gave us a sample of what downtown Toronto was all about. It looked pretty cool, actually.
+
+I had a lot of prejudices about the food in North America. I thought it was pretty bad. Well, nothing was further from the truth. The grocery stores were filled with amazing fruits, veggies and meat. A couple of fast food restaurants were offering decent meals with salads, grilled meat, beans etc. I was hungry pretty much the whole time, so I tried a lot of the stuff :)
+
+#### Visting the Island
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/toronto_island.jpg)
+*The island near Toronto. Peace & beautiful nature.*
+
+On the next day, we visited the downtown again. This time, only to board a ferry to the Island near Toronto. The weather was nice, not very warm though. Just a long walk without much tourists. Pure joy ride with beautiful nature all around us. And yes, we walked on the grass!
+
+#### Niagara Falls
+
+# New York, New York, New York...
+
+#### Central Park
+
+#### Downtown
+
+#### Brooklyn
+
+# MIT-ing
+
+# DC
+
+# San Francisco (Getting Hot in Here)
+
+# Live from the Valley
+
+#### Stanford
+
+#### One Infinite Loop
+
+#### Flight Over the Valley at Night
+
+#### Google HQ
+
+# Ride Along 1st
+
+# L.A.
+
+# Vegas (Huh? Never thought I was into gambling...)
+
+#### The Canyon
+
+# Back to Bulgaria
+
+# Tips for Traveling Geeks
+
+#### On Eating
+
+#### On Working Out
+
+#### On Sleeping
+
+# Where to Next?
+
+That one is pretty obvious! NIPS!

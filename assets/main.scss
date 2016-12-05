@@ -57,6 +57,10 @@ thead {
     vertical-align: middle;
 }
 
+img + em {
+    display: block;
+}
+
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
