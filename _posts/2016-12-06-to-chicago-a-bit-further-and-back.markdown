@@ -47,7 +47,7 @@ On the next day, we visited the downtown again. This time, only to board a ferry
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_1.jpg)
 *Can you believe this is real?*
 
-We went to the Niagara Falls and it was simply amazing! Just go there!
+We went to the Niagara Falls and it was simply amazing! Just go there and make sure you are on the Canadian side!
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_2.jpg)
@@ -56,9 +56,23 @@ We went to the Niagara Falls and it was simply amazing! Just go there!
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_3.jpg)
 *Still Niagara. Yeah, I know :)*
 
-# New York, New York, New York...
+# New York, New York...
+
+Our flight from Toronto to NYC went ok. The duration was more like three hours rather than the estimated one. That didn't matter much, we were in the USA! Again, no problems at the border.
+
+We rented a place at 117th via Airbnb for 6 nights. Now, the trip from La Guardia to 117th wasn't as smooth as one might expect. The bus stopped us somewhere at 118th, yet we had to pick up keys from a key cafe. The address was wrong, though. We contacted our host. He gave us a new address and rented Uber for us. Running around 125th and it's surroundings at night (with luggage) wasn't the best experience of my life. We got it everything in check and soon enough felt the comfort of the bed. 
 
 #### Central Park
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/central_park_1.jpg)
+*Good morning, sunshine!*
+
+Today was a good day (at Central Park). NYC didn't dissapoint. Central Park was pretty huge (as far as parks in big cities go) and widely diverse. We spent something like 4 hours in it, just the first day. So much to enjoy there. As soon as we reached the Downtown things changed a bit as we were entering...
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/central_park_2.jpg)
+*Ready for a swim?*
 
 #### Downtown
 
