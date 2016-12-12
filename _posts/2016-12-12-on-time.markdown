@@ -43,7 +43,7 @@ You are not out of the woods yet. You have to define tasks (one time and repeati
 
 # Context switching
 
-Have you ever asked yourself "Now, where was I?", "What I was thinking when writing these lines of code?" or "What was the main idea behind my blog post again?". Keeping the context in your head while doing certain tasks (e.g. programming, writing, reading etc) is essential for better performance. You might end up in a pretty terrible spot when that context is lost. You need time to "load from memory" all the information again and even then might not recover it fully. Thus, it is important to work without interruptions for long periods of time.
+Have you ever asked yourself "Now, where was I?", "What was I thinking when writing these lines of code?" or "What was the main idea behind my blog post again?". Keeping the context in your head while doing certain tasks (e.g. programming, writing, reading etc) is essential for better performance. You might end up in a pretty terrible spot when that context is lost. You need time to "load from memory" all the information again and even then might not recover it fully. Thus, it is important to work without interruptions for long periods of time.
 
 #### Trashing
 
@@ -79,4 +79,4 @@ Uncertainty lies deep within our daily lives. The world can be too complex to pu
 
 #### Can your phone do all the scheduling?
 
-No, it can't. At least to me, that sounds pretty absurd. But wouldn't be nice to do something like 90% of the work? Wouldn't be great to motivate me, track my progress, suggest changes and new tasks that might improve the chances of achieving my goals? Is that possible?
+No, it can't. At least to me, that sounds pretty absurd. But wouldn't be nice to do something like 90% of the work? Wouldn't be great to motivate you, track your progress, suggest changes and new tasks that might improve the chances of achieving your goals? Is that possible?
