@@ -207,7 +207,7 @@ Just sleep as much as you can! Let's say that my nervous system wasn't kind to m
 
 # What should've done more?
 
-Well, we should've spent more time in L.A. and the nearby places. Long Beach, Campton etc. Thankfully, my prayers to the Machine Learning gods have been heard. [NIPS 2017](https://nips.cc/Conferences/2017) is going to be at the heart of Long Beach. December 04 - 09 doesn't seem that far away. Already looking through airbnb...
+Well, we should've spent more time in L.A. and the nearby places. Long Beach, Campton etc. Thankfully, my prayers to the Machine Learning gods have been heard. [NIPS 2017](https://nips.cc/Conferences/2017) is going to be at the heart of Long Beach. December 04 - 09, 2017 doesn't seem that far away. Already looking through airbnb...
 
 # Where to Next?
 
