@@ -116,7 +116,7 @@ Being born and raised in East Harlem (nope) I always wanted to visit Brooklyn. W
 Walking down Flatbush avenue one song was spinning endlessly in my head. Here, let me play it for you:
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/watch?v=Rx5aVI2zsFE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/Rx5aVI2zsFE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Come on, you've got to believe me. It was amazing. Here, take a look at Brooklyn park:
