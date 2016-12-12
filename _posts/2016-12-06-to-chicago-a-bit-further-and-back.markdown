@@ -210,6 +210,24 @@ Finally, we checked in our hotel and were ready for exploration.
 
 #### The Canyon
 
+We were ready for our second road trip. This time the destination was the West Rim of the Grand Canyon. Pro tip: go to the south rim if you can!
+
+Early in the morning, we went to rent a car from the airport. Bought 2-3 bags filled with delicious food and turned on the seat heaters. Driving around the desert without a rooftop made me smile. I haven't slept well on the previous night and this really woke me up.
+
+We drove for around 3 hours or so. When we arrived we discovered that it was worth it! The Grand Canyon is something that you have to see, it can't be described. Even pictures can't do a good job of presenting it.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/canyon_1.jpg)
+*How about a hike down there?*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/canyon_2.jpg)
+*That eagle was watching over us. That surely made me feel safe!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/canyon_3.jpg)
+*It is always nice to be at the edge*
+
 # Back to Bulgaria
 
 I can't describe how happy I was when our plane landed in my home country. I've never been away for such a long period. Seeing friends and family after such a long trip was truly heartwarming (not only because the temperatures outside were way lower than those in L.A.).
