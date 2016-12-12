@@ -177,7 +177,7 @@ First, find quality sources of food. Surprisingly, that was not a problem in the
 
 #### What do you do (now, things get a bit nerdy)? 
 
-Use 37% of your time allocated for food in exploring different options. That means trying new supermarkets, fast food restaurants, wholefood markets etc. Sample from all that looks ok. Then, in the rest 63% exploit what you've discovered.
+Use 37% of your time allocated for food in exploring different options. That means trying new supermarkets, fast food restaurants, wholefood markets etc. Sample from all that looks ok. Then, in the rest 63% exploit what you've discovered. Think I am crazy (yeah, you are probably right)? Look at that: [Who solved the secretary problem?](https://projecteuclid.org/download/pdf_1/euclid.ss/1177012493)
 
 #### What should you eat?
 
