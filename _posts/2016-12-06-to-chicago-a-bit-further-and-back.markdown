@@ -56,6 +56,15 @@ We went to the Niagara Falls and it was simply amazing! Just go there and make s
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/niagara_3.jpg)
 *Still Niagara. Yeah, I know :)*
 
+
+#### University of Toronto
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/toronto_uni.jpg)
+*What? I can die happy now!*
+
+No further questions, please...
+
 # New York, New York...
 
 Our flight from Toronto to NYC went ok. The duration was more like three hours rather than the estimated one. That didn't matter much, we were in the USA! Again, no problems at the border.
@@ -75,6 +84,18 @@ Today was a good day (at Central Park). NYC didn't dissapoint. Central Park was 
 *Ready for a swim?*
 
 #### Downtown
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_1.jpg)
+*Welcome indeed!*
+
+Downtown NYC was ok, I guess. It was pretty overcrowded most of the time. However, some parks were pretty good, considering the amount of people around. 
+
+The most amazing thing happened at night. We went to a Broadway musical - Aladdin. Should you do it, too? Just go!
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_2.jpg)
+*I am still looking for that lamp...*
 
 #### Brooklyn
 
