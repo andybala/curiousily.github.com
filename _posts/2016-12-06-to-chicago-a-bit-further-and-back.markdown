@@ -165,6 +165,10 @@ Finally, we checked in our hotel and were ready for exploration.
 
 # Back to Bulgaria
 
+I can't describe how happy I was when our plane landed in my home country. I've never been away for such a long period. Seeing friends and family after such a long trip was truly heartwarming (not only because the temperatures outside were way lower than those in L.A.).
+
+Still, I felt like some part of me was missing. Left somewhere in the heart of the Valley?
+
 # Tips for Traveling Geeks
 
 #### On Eating
@@ -202,6 +206,8 @@ My first workout, after we returned, was pretty pathetic. I felt like I lost 30-
 Just sleep as much as you can! Let's say that my nervous system wasn't kind to me and I had periods of extensive "thinking nights". Nothing good came out of that. So do as I say, not as I do - just go to sleep!
 
 # What should've done more?
+
+Well, we should've spent more time in L.A. and the nearby places. Long Beach, Campton etc. Thankfully, my prayers to the Machine Learning gods have been heard. [NIPS 2017](https://nips.cc/Conferences/2017) is going to be at the heart of Long Beach. December 04 - 09 doesn't seem that far away. Already looking through airbnb...
 
 # Where to Next?
 
