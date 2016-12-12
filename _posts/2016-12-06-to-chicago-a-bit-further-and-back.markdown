@@ -99,6 +99,32 @@ The most amazing thing happened at night. We went to a Broadway musical - Aladdi
 
 #### Brooklyn
 
+Being born and raised in East Harlem (nope) I always wanted to visit Brooklyn. We just had to cross the bridge...
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_3.jpg)
+*Stunning views all around!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_4.jpg)
+*Look mom, almost made it!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_5.jpg)
+*Still wondering, was this sign made by Common?*
+
+Walking down Flatbush avenue one song was spinning endlessly in my head. Here, let me play it for you:
+
+<div class="center">
+    <iframe width="100%" height="360" src="https://www.youtube.com/watch?v=Rx5aVI2zsFE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Come on, you've got to believe me. It was amazing. Here, take a look at Brooklyn park:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/nyc_6.jpg)
+*Isn't Fall an amazing season?*
+
 # MIT-ing
 
 # DC
