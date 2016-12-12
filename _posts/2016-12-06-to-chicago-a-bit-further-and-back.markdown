@@ -117,7 +117,7 @@ Downtown L.A. was pretty much meh... Lots of homeless and mentally ill people we
 
 There was this park (and surroundings) right next to Union Station, filled with homeless people. It was like nobody was seeing them. Huh, was that ok!? Nope! It really felt like a 3rd world country in there.
 
-Later, we decided to visit the big park above Holywood right about when the sunset was starting it looked like this:
+Later, we decided to visit the big park above Holywood. Right about when the sunset was starting it looked like this:
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/la_3.jpg)
@@ -169,9 +169,37 @@ Finally, we checked in our hotel and were ready for exploration.
 
 #### On Eating
 
+Some say that keeping your waist in check is hard when on vacation. Is it? 
+
+Of course, you might be tempted to try out everything you see, and I mean everything... Tasting that amazing Italian chocolate ice cream might be your dream from day 1. That's ok if you establish some rules.
+
+First, find quality sources of food. Surprisingly, that was not a problem in the USA. Most grocery stores were great (yep, even those in East Harlem had amazing stuff in them!), filled with fresh vegies, salads, chopped meat (beef and chicken) and delicious fruits! You won't be disappointed if you are into hot soups, too!
+
+#### What do you do (now, things get a bit nerdy)? 
+
+Use 37% of your time allocated for food in exploring different options. That means trying new supermarkets, fast food restaurants, wholefood markets etc. Sample from all that looks ok. Then, in the rest 63% exploit what you've discovered.
+
+#### What should you eat?
+
+This can be quite simple (if you do not allow nutritionists and other fads tell you what you should eat). Go full out meat, eggs, beans, rice, fish, leafy vegies, avocado, nuts (know why?) and all the fruit you can digest. Sometimes I was like "Yep, I am full. Let me just eat those 3 bananas and a handful of nuts".
+
+#### Where should you eat? 
+
+Personal favorite - parks, oceans, anywhere near water and pretty much anywhere the view is breathtaking. It helps you digest better (I am not aware of such "fact")! One side effect of that is the amount you pay per meal. It is pretty cheap, so you don't have to cut high quality delicious and healthy food.
+
+#### How much should you eat? 
+
+You might notice something strange if you try this "diet". You can eat until you feel full. There is nothing to be afraid of if you are an active tourist. Personally, my sugar cravings stopped after a week or so. Can this happen to you as well?
+
 #### On Working Out
 
+My workout regiment went south pretty much from the start. We were averaging more than 20 km (no, I do not know how much miles is that!) of walking. The initial exhaustion from that was there. However, after a week or so, our bodies were back on track. That's when we visited the bars at Central Park (I am too embarrassed to share a picture of that!) and later had fun on some "playgrounds" in L.A. It was more of a way to relax than having full blown workout. I never visited a gym in the USA. The only real possibilities were the 2 nights we spent in Las Vegas, but somehow I was too preoccupied for that (lazy me!).
+
+My first workout, after we returned, was pretty pathetic. I felt like I lost 30-40% of my strength. However, after 2-3 workouts the things are almost where I left them. It might've been good to take a break from the gym after all.
+
 #### On Sleeping
+
+Just sleep as much as you can! Let's say that my nervous system wasn't kind to me and I had periods of extensive "thinking nights". Nothing good came out of that. So do as I say, not as I do - just go to sleep!
 
 # What should've done more?
 
