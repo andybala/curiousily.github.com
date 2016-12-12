@@ -11,7 +11,7 @@ excerpt: "What are the most important things to do? When should you do them?"
 
 Here you are, close to another New Year. You definitely have some goals in mind for it, right? Can you achieve them? Or is it just wishful thinking?
 
-Recently, I've been reading/listening to ["Algorithms to Live By"](http://algorithmstoliveby.com/), which marries algorithms used by computer scientists with daily living. I've been pondering on one question for the last year or so. What is the optimal schedule for your day? This book gave me an incredible overview of the matter of "Scientific Scheduling". Go read it! You might learn a ton of useful things as well!
+Recently, I've been reading/listening to ["Algorithms to Live By"](http://algorithmstoliveby.com/), which marries algorithms used by computer scientists with daily living. I've been pondering on one question for the last year or so. What is the optimal schedule for your day? This book gave me an incredible overview of the matter of "Scientific Scheduling". Go read it! You might learn a ton of other useful things as well!
 
 # Defining your goals
 
