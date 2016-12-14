@@ -127,7 +127,7 @@ Come on, you've got to believe me. It was amazing. Here, take a look at Brooklyn
 
 # MIT-ing
 
-Ready for Boston? Sure! We definitely were! The ride from NYC to Boston was about 5 hours long. The scenery was great, yet the weather was not great. So, back to sleep.
+Ready for Boston? Sure! We definitely were! The ride from NYC to Boston was about 5 hours long. The scenery was great, yet the weather was not. So, back to sleep.
 
 Finally! At Boston! Now, let's find something to eat! Probably the best restaurant in the world was nearby. The MIT canteen!
 
