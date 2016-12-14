@@ -155,7 +155,7 @@ And with this little poster the dessert was served:
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_4.jpg)
 *How about a little souvenir from MIT?*
 
-Of course, I bought a book that I will never understand within 10 or 20 light years, but you know what a player's got to do (yep, you've got it. I am making fun of myself! ) ...
+Of course, I bought a book that I will never understand within the next 50 or 60 years, but you know what a player's got to do (yep, you've got it. I am making fun of myself! ) ...
 
 # DC
 
