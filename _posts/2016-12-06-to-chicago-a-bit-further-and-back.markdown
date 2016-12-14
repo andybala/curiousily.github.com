@@ -10,7 +10,7 @@ excerpt: "A geek's adventure guide to Silicon Valley and a few more stops. Ready
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_hq.jpg)
 *A glimpse at Google Headquarters*
 
-I was standing in the middle of it. I couldn’t believe it. Could you blame me? I wanted to go there for like 5 or more years. And here it was, pretty epic stuff! But let’s start from the beginning, shall we?
+I was standing in the middle of it. I couldn’t believe it. Can you blame me? I wanted to go there for more than 5 years. And here I was, pretty epic stuff! But let’s start from the beginning, shall we?
 
 # Can You Really Do It?
 
