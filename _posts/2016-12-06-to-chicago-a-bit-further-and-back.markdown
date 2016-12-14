@@ -149,7 +149,7 @@ And yes, we visited the...
 
 And I couldn't hear the sound of the police (not hard to get that, eh?)! In fact, everything about MIT was so open and simply amazing! We even snuggled into a lab exercise. Don't tell anyone about that!
 
-And this little poster:
+And with this little poster the dessert was served:
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_4.jpg)
