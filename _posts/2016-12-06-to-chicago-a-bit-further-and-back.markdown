@@ -127,6 +127,36 @@ Come on, you've got to believe me. It was amazing. Here, take a look at Brooklyn
 
 # MIT-ing
 
+Ready for Boston? Sure! We definitely were! The ride from NYC to Boston was about 5 hours long. The scenery was great, yet the weather was not great. So, back to sleep.
+
+Finally! At Boston! Now, let's find something to eat! Probably the best restaurant in the world was nearby. The MIT canteen!
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_1.jpg)
+*Isn't that plate just amazing? Delicious and nutritious, yummy!*
+
+Now that our tummies were full we had to find something for our souls (nope, even I don't believe that):
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_2.jpg)
+*This really made my day!*
+
+And yes, we visited the...
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_3.jpg)
+*I could've stood there whole day except I had to get in...*
+
+And I couldn't hear the sound of the police (not hard to get that, eh?)! In fact, everything about MIT was so open and simply amazing! We even snuggled into a lab exercise. Don't tell anyone about that!
+
+And this little poster:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/mit_4.jpg)
+*How about a little souvenir from MIT?*
+
+Of course, I bought a book that I will never understand within 10 or 20 light years, but you know what a player's got to do (yep, you've got it. I am making fun of myself! ) ...
+
 # DC
 
 # San Francisco (Getting Hot in Here)
