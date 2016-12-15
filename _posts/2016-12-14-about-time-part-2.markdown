@@ -3,7 +3,7 @@ layout: post
 title:  "About Time - Part II"
 date:   2016-12-14 14:05:00 +0300
 categories: ["projects"]
-excerpt: "Can we make a model that schedules your day better than anyone?"
+excerpt: "The ingridients of a better daily schedule. Can we make a scheduler that does it for you?"
 ---
 
 You got all your goals written down. Now you just have to achieve them. Easy, you say? You've got everything figured out? Not so fast!
@@ -30,11 +30,19 @@ The optimist is trying to fit everything into your daily schedule, while taking 
 * there should be time between writing new post and visiting the gym 
 * some breaks between the tasks might be good for you
 
-The other minion has to tell only one thing - what percentage of a given schedule will be complete by the end of the day? The tricky part is that not all tasks are created equal. Each task must have an assigned number that represents its importance. This way, you can immediately tell if doing one task is more important than another at a specified time. How to compute the importance of a given task? That one is coming in the next post.
+The other minion has to tell only one thing - what percentage of a given schedule will be complete by the end of the day? The tricky part is that not all tasks are created equal. Each task must have an assigned number that represents its importance. This way, you can immediately tell if doing one task is more important than another at a specified time. How to compute the importance of a given task?
 
-# With the pessimist and optimist on your side
+# How important is this task, really?
 
-But how do you choose a schedule? Ask the optimist to create one for you, then give it to the pessimist. If the schedule has good enough chance of being completed by you, go for it! Have a perfectly scheduled day!
+This one appears to be infinitely complex, at least to me. We need to restrain that beast with constraints. Small bits of randomness and user input can help a lot. If a task is going to help you achieve some goal - by any means, it is important! If a task is marked as important by the user - it is important! Are we done here? Not yet!
+
+Let's say that it is important to create the cake for your mom's birthday party. Shopping at the grocery store might not seem as or more important at first. Still, you need all the sugary stuff to make that cake. The priority of buying groceries just went high. More importantly, you have to do that one first.
+
+But we will have to make some simplifications at first. The example above is quite common. Still, we will let the user handle that one, initially.
+
+# How to choose your schedule
+
+Let the minions help you! Ask the optimist to create one for you, then give it to the pessimist. If the schedule has good enough chance of being completed by you, go for it! Have a perfectly scheduled day!
 
 What, it wasn't good enough? Tell the score to the optimist and ask him to generate another one for you. Repeat until total happiness is achieved!
 
