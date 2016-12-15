@@ -37,3 +37,9 @@ The other minion has to tell only one thing - what percentage of a given schedul
 But how do you choose a schedule? Ask the optimist to create one for you, then give it to the pessimist. If the schedule has good enough chance of being completed by you, go for it! Have a perfectly scheduled day!
 
 What, it wasn't good enough? Tell the score to the optimist and ask him to generate another one for you. Repeat until total happiness is achieved!
+
+# Improving thyself
+
+Now now, a schedule that doesn't push you a bit isn't something you want, right? Let's take some random slacker as an example. You can tell that guy to work out hard 5 times a week, read a book for at least an hour every day and write 100 pages of his book every weekend. Do you expect him to do it? Well, I do! After a period of adjustment, he might get there. But he has to start small.
+
+That's why the pessimist is going to be initially really pessimistic about your expected performance (unless told otherwise, of course). And that will change, every week or so, pushing you a bit more or less, depending on your performance.
