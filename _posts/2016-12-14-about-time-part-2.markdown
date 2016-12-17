@@ -19,7 +19,7 @@ More importantly, can you rely on yourself to be at 100% every time you need to 
 
 # Outsourcing (most of) the scheduling
 
-Back to the matter at hand: what is the perfect daily schedule? The truth is I don't know. I believe nobody does. However, can we get very close to achieving it?
+Back to the matter at hand: what is the perfect daily schedule? The truth is I don't know. I believe nobody does. However, can we make a really good one?
 
 Two opposing forces seems to play an important role here. Is the schedule doable? Does the schedule maximize the completion of your goals?
 
