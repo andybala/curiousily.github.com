@@ -159,7 +159,45 @@ Of course, I bought a book that I will never understand within the next 50 or 60
 
 # DC
 
+The first thing I remember about DC? Calmness. The weather was just right and the first view was... well, just like that:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_1.jpg)
+*Straight out of Union Station*
+
+Relax, I'll try not to bore you with the sightseeings:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_2.jpg)
+*Gangstas were everywhere! Isn't she a cutie?*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_3.jpg)
+*Not yet in Vegas*
+
+My favorite spot was one particular museum. I won't even try to lie about it.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_4.jpg)
+*Dare I say it. The one that started it all!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_5.jpg)
+*Do you get it?*
+
+So much to see so little time! DC was pretty cool, but the elections were coming. It was getting a bit cold, too. Can you think of someplace hotter? 
+
 # San Francisco (Getting Hot in Here)
+
+The news was traveling fast. I was a bit surprised by the election turn of events. But let's not forget we were just tourists.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/sf_1.jpg)
+*I pinched myself and asked another person to do it for me, too. It was real!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/sf_2.jpg)
+*Isn't that an amazing way to say goodbye to the day?*
 
 # Live from the Valley
 
