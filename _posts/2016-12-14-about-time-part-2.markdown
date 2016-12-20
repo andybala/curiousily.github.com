@@ -6,6 +6,10 @@ categories: ["projects"]
 excerpt: "The ingridients of a better daily schedule. Can we make a scheduler that does it for you?"
 ---
 
+{:.center}
+![png]({{site.url}}/assets/9.about_time_part_ii_files/hero.png)
+*Now, should I play Diablo or Dota first?*
+
 You got all your goals written down. Now you just have to achieve them. Easy, you say? You've got everything figured out? Not so fast!
 
 As discussed in the previous post, our world can be highly unpredictable. So, your schedule might be unfit for the uncertainty lying ahead. Even if it is, it might take too much time to make or be too vague.
@@ -34,7 +38,7 @@ The other minion has to tell only one thing - what percentage of a given schedul
 
 # How important is this task, really?
 
-This one appears to be infinitely complex, at least to me. We need to restrain that beast with constraints. Small bits of randomness and user input can help a lot. If a task is going to help you achieve some goal - by any means, it is important! If a task is marked as important by the user - it is important! Are we done here? Not yet!
+This one appears to be infinitely complex, at least to me. We need to restrain the beast with constraints. Small bits of randomness and user input can help a lot. If a task is going to help you achieve some goal - by all means, it is important! If a task is marked as important by the user - it is important! Are we done here? Not yet!
 
 Let's say that it is important to create the cake for your mom's birthday party. Shopping at the grocery store might not seem as or more important at first. Still, you need all the sugary stuff to make that cake. The priority of buying groceries just went high. More importantly, you have to do that one first.
 
