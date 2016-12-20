@@ -346,7 +346,7 @@ Well, we should've spent more time in L.A. and the nearby places. Long Beach, Ca
 
 That one is pretty obvious! NIPS!
 
-# P.S. A dumb man told me once
+# P.S. A wise man told me once
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/sf_2.jpg)
