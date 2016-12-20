@@ -3,7 +3,7 @@ layout: post
 title:  "About Time - Part II"
 date:   2016-12-14 14:05:00 +0300
 categories: ["projects"]
-excerpt: "The ingridients of a better daily schedule. Can we make a scheduler that does it for you?"
+excerpt: "The ingredients of a better daily schedule. Can we make a scheduler that does it for you?"
 ---
 
 {:.center}
