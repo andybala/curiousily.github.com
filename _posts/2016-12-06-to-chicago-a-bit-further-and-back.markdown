@@ -345,3 +345,9 @@ Well, we should've spent more time in L.A. and the nearby places. Long Beach, Ca
 # Where to Next?
 
 That one is pretty obvious! NIPS!
+
+# P.S. A dumb man told me once
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/sf_2.jpg)
+*Sometimes, a geek goes binary searching to the end of the world, only to find out everything he was looking for was at O(1) from him*
