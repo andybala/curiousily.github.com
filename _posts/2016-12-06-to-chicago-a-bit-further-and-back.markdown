@@ -173,7 +173,7 @@ Relax, I'll try not to bore you with the sightseeings:
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/dc_3.jpg)
-*Not yet in Vegas*
+*Not in Vegas, yet*
 
 My favorite spot was one particular museum. I won't even try to lie about it.
 
@@ -350,4 +350,4 @@ That one is pretty obvious! NIPS!
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/sf_2.jpg)
-*Sometimes, a geek goes binary searching to the end of the world, only to find out everything he was looking for was at O(1) from him*
+*Sometimes, a geek goes binary searching to the end of the world, only to find out that everything he was looking for was at O(1) from him*
