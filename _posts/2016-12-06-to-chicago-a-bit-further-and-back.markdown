@@ -237,6 +237,20 @@ Visiting the Apple campus was pretty boring. We were accompanied by an Apple emp
 
 #### Flight Over the Valley at Night
 
+My uncle had a really nice surprise for us. He organized a flight over the valley with a small plane. We were about to lift off from small airport at San Jose, fly to San Francisco and return. Unfortunately, we were a bit too heavy for the plane, so my uncle had to stay on the ground.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/flight_1.jpg)
+*The plane was eagerly waiting...*
+
+Not before long, we were cruising (not down the street) above the clouds. Some of them seemed really upset by us, maybe even trying to hit us with a lightning or something.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/flight_2.jpg)
+*Not so sunny now...*
+
+The sunset was closing fast. It was just unbelievable. We were right above San Fran, cruising at 140 mph and the view was...
+
 #### Google HQ
 
 # Ride Along 1st
