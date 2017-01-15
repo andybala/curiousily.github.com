@@ -201,9 +201,39 @@ The news was traveling fast. I was a bit surprised by the election turn of event
 
 # Live from the Valley
 
+On one of those days, we were riding the Caltrain traveling from San Fran to Palo Alto. The weather was just great. It was California after all, right? But, where to?
+
 #### Stanford
 
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/stanford_1.jpg)
+*Good thing we knew where we were going*
+
+Entering the premises of Stanford, I stood puzzled. Can I move here and just stay? Surely, the immigration officers might have something to say about that.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/stanford_2.jpg)
+*We were getting closer*
+
+Ok, we were there to attend a lecture. And yes, the topic was deep learning. The guest lecturer was Andrej Karpathy. That should be enough to understand how excited was I about attending the lecture. Please, don't ask how we were able to enter the building...
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/stanford_3.jpg)
+*The movie, eh lecture, was about to begin*
+
+The lecture was really inspiring. Lots of cool examples/demos showing state-of-the-art.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/stanford_4.jpg)
+*Say bye to the campus*
+
 #### One Infinite Loop
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/apple_1.jpg)
+*Feel like a tourist yet?*
+
+Visiting the Apple campus was pretty boring. We were accompanied by an Apple employee, but we weren't able to enter any of the buildings. Next...
 
 #### Flight Over the Valley at Night
 
@@ -248,7 +278,7 @@ We only had one backpack. So, we took a walk through some parts of Vegas. It was
 
 {:.center}
 ![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/vegas_1.jpg)
-*I always thought that the first person I see was going to be someone else*
+*Not what you expect to see from Vegas, right?*
 
 Well, someone was definitely there to welcome us :) He was pretty cute, too!
 
