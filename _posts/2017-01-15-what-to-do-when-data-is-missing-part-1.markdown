@@ -65,7 +65,7 @@ Yep, we've done it! Good job! And this is the end of the post. Or is it?
 
 Just imagine this title in your favorite newspaper tomorrow morning:
 
-"Scientists found that the average weight of a woman in New York City is 56.45 kilograms"
+> Scientists found that the average weight of a woman in New York City is 56.45 kilograms.
 
 Is this correct? Can we just ignore the values that are missing? And the answer is - it depends.
 
@@ -73,13 +73,13 @@ Is this correct? Can we just ignore the values that are missing? And the answer 
 
 So, what is the best way to handle missing data? As [Orchard and Woodbury (1972, p. 697)](#cite-orchard1972missing) remarked:
 
-`Obviously, the best way to treat missing data is not to have them.`
+> Obviously, the best way to treat missing data is not to have them.
 
 Of course, they knew that this was impossible ideal to achieve in practice.
 
 [Allison (2002, p. 1)](#cite-allison2001missing) observed that:
 
-`Sooner or later (usually sooner), anyone who does statistical analysis runs into problems with missing data.`
+> Sooner or later (usually sooner), anyone who does statistical analysis runs into problems with missing data.
 
 So, how should we deal with this?
 
