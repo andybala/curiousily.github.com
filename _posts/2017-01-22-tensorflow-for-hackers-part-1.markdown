@@ -78,15 +78,15 @@ Success! As you can see, I am using version 1.0 alpha. Let's get those tensors f
 
 Writing TensorFlow code might require some getting use to at first. There are some concepts that you must familiarize yourself with.
 
-## Variables
+### Variables
 
 Variables are pretty standard stuff. You just have to remember one thing - define them before using them in the computational graph.
 
-## Placeholders
+### Placeholders
 
 Placeholders are used to feed in data from outside the computational graph. So, if you need to pass data to the model from outside TensorFlow, you have to define a placeholder. Each placeholder must specify a data type. You specify your data using `feed_dict` when running your computation.
 
-## Session
+### Session
 
 In order to run any meaningful operation on your graph, you need a Session. In sessions, we trust (not cookies), most of the time. Here is a short example:
 
@@ -178,7 +178,7 @@ with tf.Session() as sess:
         results.append(sess.run([train, a_var, b_var])[1:])
 ```
 
-Let's get the final and best predictions for $a$ and $b$
+Let's get the final and best predictions for $$a$$ and $$b$$
 
 
 ```python
