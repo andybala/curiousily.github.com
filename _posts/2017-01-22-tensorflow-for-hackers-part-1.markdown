@@ -30,7 +30,7 @@ The [glossary](https://www.tensorflow.org/resources/glossary#glossary) of Tensor
 
 > A Tensor is a typed multi-dimensional array. For example, a 4-D array of floating point numbers representing a mini-batch of images with dimensions [batch, height, width, channel].
 
-So, you can think of a tensor as a matrix on steroids - expanded to $n$ more dimensions. The concept might feel a bit strange at first, but don't worry it will come around eventually.
+So, you can think of a tensor as a matrix on steroids - expanded to $$n$$ more dimensions. The concept might feel a bit strange at first, but don't worry it will come around eventually.
 
 # Installing TensorFlow
 
