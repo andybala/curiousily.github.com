@@ -23,6 +23,7 @@ On the more technical side, TensorFlow allows you to do computations on your PC/
 
 {:.center}
 ![gif]({{site.url}}/assets/11.tensorflow_for_hackers_part_1_files/tensors_flowing.gif)
+*Your data flowing through a graph in TensorFlow*
 
 ## Eh, Tensors?
 
