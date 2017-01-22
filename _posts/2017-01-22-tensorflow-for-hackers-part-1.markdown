@@ -170,7 +170,7 @@ optimizer = tf.train.GradientDescentOptimizer(0.5)
 train = optimizer.minimize(loss)
 ```
 
-Let's use our optimizer for $$300$$ steps of learning
+Let's use our optimizer for 300 steps of learning
 
 ```python
 TRAINING_STEPS = 300
