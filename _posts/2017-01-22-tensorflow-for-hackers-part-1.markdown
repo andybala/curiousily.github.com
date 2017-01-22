@@ -157,11 +157,13 @@ b_var = tf.Variable(1.0)
 y_var = a_var * X + b_var
 ```
 
+Our task will be to minimize the mean squared error or in TensorFlow parlance - reduce the mean.
 
 ```python
 loss = tf.reduce_mean(tf.square(y_var - Y))
 ```
 
+So, let's try to minimize it using gradient descent.
 
 ```python
 optimizer = tf.train.GradientDescentOptimizer(0.5)
