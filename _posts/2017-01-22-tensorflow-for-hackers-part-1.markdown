@@ -205,8 +205,7 @@ plt.plot(X, y_hat);
 {:.center}
 ![png]({{site.url}}/assets/11.tensorflow_for_hackers_part_1_files/9.tensorflow_for_hackers_part_1_19_0.png)
 
-
-That's a nice fit. Pretty good for a couple of lines of code.
+That's a nice fit. Those two lines overlap pretty good, what did you expect? Pretty good for a couple of lines of code.
 
 # What we've done so far
 
