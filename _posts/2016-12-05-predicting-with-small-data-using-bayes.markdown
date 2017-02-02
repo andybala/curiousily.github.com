@@ -99,7 +99,7 @@ ggplot(df, aes(x = aede2, y = species)) + geom_point() +
 ![png]({{site.url}}/assets/6.predicting_with_small_data_using_bayes_files/6.predicting_with_small_data_using_bayes_8_1.png)
 
 
-It looks like there is pretty good separation between Heptapot and the other 2 species based on `aede2` alone.
+It looks like there is pretty good separation between Heptapot and the other 2 species based on <code>aede2</code> alone.
 
 
 ```R
