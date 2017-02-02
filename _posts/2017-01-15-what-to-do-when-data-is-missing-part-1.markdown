@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What do when data is missing? - Part I"
+title:  "What to do when data is missing? - Part I"
 date:   2017-01-15 12:43:00 +0300
 categories: ["data-science"]
 excerpt: "Yes! You've got the coolest dataset on your hard drive. Countless hours of fun are waiting for you. Except, some rows have missing values and your model might not be happy with those. But you have the perfect solution! You can just ignore them (nobody said delete them, right?)! Now, why this might not be the best idea? Let's dig deeper into data imputation using R."

@@ -4,3 +4,4 @@ _site
 .DS_Store
 .python-version
 .ipynb_checkpoints
+.ropeproject/
