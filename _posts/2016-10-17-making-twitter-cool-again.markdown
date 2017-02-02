@@ -59,7 +59,7 @@ options(warn=-1)
 df <- read.csv("data/tweets.csv", header = T, stringsAsFactors = F)
 ```
 
-Since our dataset is pretty well sorted (by username) we would love to randomize it a bit and tell R that `created_at` is an actual date field:
+Since our dataset is pretty well sorted (by username) we would love to randomize it a bit and tell R that <code>created_at</code> is an actual date field:
 
 
 ```R
@@ -190,40 +190,31 @@ random.order = F, colors=brewer.pal(8, "Dark2"))
 {:.center}
 ![png]({{site.url}}/assets/4.making_twitter_cool_again_files/3.making_twitter_cool_again_25_0.png)
 
-We can even find associations in our corpus. Let's see what is most associated to the word `data`?
+We can even find associations in our corpus. Let's see what is most associated to the word <code>data</code>?
 
 ```R
 findAssocs(tdm_train, "data", 0.07)
 ```
 
-
-`scienc` : 0.22
-
-`scientist` : 0.18
-
-`big` : 0.14
-
-`elixir` : 0.1
-
-`ingenu` : 0.1
-
-`janitor` : 0.1
-
-`servanda` : 0.1
-
-`mung` : 0.09
-
-`effici` : 0.08
-
-`literaci` : 0.08
-
-`driven` : 0.07
+|word|strength|
+|-----------|------|
+| scienc    | 0.22 |
+| scientist | 0.18 |
+| big       | 0.14 |
+| elixir    | 0.1  |
+| ingenu    | 0.1  |
+| janitor   | 0.1  |
+| servanda  | 0.1  |
+| mung      | 0.09 |
+| effici    | 0.08 |
+| literaci  | 0.08 |
+| driven    | 0.07 |
 
 So it's data science, data scientist, and big data? Looks reasonable enough!
 
 # Training our model
 
-We will use the package `topicmodels` to train Latent Dirichlet Allocation (LDA) model using our tweet corpus.  One good explanation of what exactly LDA is can be found [on Quora](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation). Concretely (get it?), we will use Gibbs sampling to find 10 (randomly picked number) topics.
+We will use the package <code>topicmodels</code> to train Latent Dirichlet Allocation (LDA) model using our tweet corpus.  One good explanation of what exactly LDA is can be found [on Quora](https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation). Concretely (get it?), we will use Gibbs sampling to find 10 (randomly picked number) topics.
 
 
 ```R
@@ -291,39 +282,6 @@ lda_posterior <- posterior(lda, dtm_test)
 ```
 
 
-Now, let's pick the most probable topic for each tweet:
-
-
-```R
-test_topics <- apply(lda_posterior$topics, 1, which.max)
-```
-
-
-```R
-test_topics
-```
-
-`1` : 1
-
-`2` : 1
-
-`3` : 2
-
-`4` : 6
-
-`5` : 1
-
-`6` : 1
-
-`7` : 10
-
-`8` : 4
-
-`9` : 8
-
-`10` : 8
-
-
 Ready to have a look at the actual tweets?
 
 
@@ -373,7 +331,7 @@ terms(lda, 5)
 
 What do you think about the results? Remember that every tweet is limited to 140 characters, thus our documents are rather small (even tiny considering preprocessing).
 
-Let's visualize our LDA model using the sweet `LDAvis` package.
+Let's visualize our LDA model using the sweet <code>LDAvis</code> package.
 
 
 ```R
@@ -399,7 +357,7 @@ LDAvis::serVis(json, out.dir = 'twitter_lda_vis', open.browser = FALSE)
 
 Take a look at the resulting [visualization]({{site.url}}/assets/twitter_lda_vis/index.html).
 
-It looks like 3 `(2, 4, 8)` of the topics are pretty well separated from any other topic. We have 5 topics that are pretty close to each other on the bottom right. Might it be a good idea to try a different number of topics then?
+It looks like 3 <code>(2, 4, 8)</code> of the topics are pretty well separated from any other topic. We have 5 topics that are pretty close to each other on the bottom right. Might it be a good idea to try a different number of topics then?
 
 At the end of the day, our model looks pretty useful. Let's not forget that the data is pretty fresh and real (yes - I do not follow many tweeps, mostly those that are interested in math, machine learning and biotech/bioinformatics).
 
