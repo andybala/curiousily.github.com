@@ -281,7 +281,7 @@ imputed <- mice(df, method = "norm.nob", m = 1, maxit = 1, seed = 42)
       1   1  heights  weights
 
 
-`method = "norm.nob"` tells `mice` to use the stochastic regression method.
+<code>method = "norm.nob"</code> tells mice to use the stochastic regression method.
 
 
 ```R

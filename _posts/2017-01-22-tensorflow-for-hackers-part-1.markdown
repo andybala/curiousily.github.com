@@ -85,7 +85,7 @@ Variables are pretty standard stuff. You just have to remember one thing - defin
 
 ### Placeholders
 
-Placeholders are used to feed in data from outside the computational graph. So, if you need to pass data to the model from outside TensorFlow, you have to define a placeholder. Each placeholder must specify a data type. You specify your data using `feed_dict` when running your computation.
+Placeholders are used to feed in data from outside the computational graph. So, if you need to pass data to the model from outside TensorFlow, you have to define a placeholder. Each placeholder must specify a data type. You specify your data using <code>feed_dict</code> when running your computation.
 
 ### Session
 

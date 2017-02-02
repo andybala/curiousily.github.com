@@ -22,11 +22,11 @@ Does the time fly? A [recent paper](http://science.sciencemag.org/content/354/63
 
 Just google "how to choose personal goals" and you might be surprised of the different opinions you might get. I am not going to tell you how you should do it. I am just saying that it is important. In a sense, you are striving to optimize your schedule based on the belief that you will achieve those goals.
 
-#### Will you achieve any goal? 
+## Will you achieve any goal? 
 
 Probably not, and that's ok. Still, some things are just worth trying. They will enrich you while leading you to an epic failure :)
 
-#### How to define your goals?
+## How to define your goals?
 
 Here is my cheatsheet for defining goals:
 
@@ -37,7 +37,7 @@ Here is my cheatsheet for defining goals:
 * Make it a bit outside of your comfort zone (increase your deadlift weight by 20% instead of 15%)
 * Do not define more than 3-5 active goals
 
-#### Then what?
+## Then what?
 
 You are not out of the woods yet. You have to define tasks (one time and repeating) that allow you to make progress towards your goals. Do you want to lose weight? Define something like "hit the gym 3 times per week" and "go for a run 2 times per week". Now that is important. While you can't control how much weight you are going to lose, you can do something that you believe causes it. It can be pretty tricky to define those tasks properly. You've got to start somewhere, though!
 
@@ -45,7 +45,7 @@ You are not out of the woods yet. You have to define tasks (one time and repeati
 
 Have you ever asked yourself "Now, where was I?", "What was I thinking when writing these lines of code?" or "What was the main idea behind my blog post again?". Keeping the context in your head while doing certain tasks (e.g. programming, writing, reading etc) is essential for better performance. You might end up in a pretty terrible spot when that context is lost. You need time to "load from memory" all the information again and even then might not recover it fully. Thus, it is important to work without interruptions for long periods of time.
 
-#### Trashing
+## Trashing
 
 I've been there countless of times and I hate it! Not knowing what to choose next from a set of tasks or even worse - starting one just to leave it for another one in an infinite loop. I've been trashing myself for too long now!
 
@@ -53,11 +53,11 @@ Simply put, "trashing" refers to a machine/human who is doing only meta-work. Th
 
 One way to reduce the amount of trashing you do is to learn to say no. Reject doing some tasks. Another good one - when you can't choose a task, choose at random!
 
-#### Responsiveness and throughput
+## Responsiveness and throughput
 
 Those two are really interesting. Responsiveness refers to how quickly you can respond to things. Throughput describes how much you can get done overall. And they are into a constant battle. The more responsive you are more you can't focus on demanding tasks. The more throughput you want more distanced from everything you must be.
 
-#### Minimum allocated time per task
+## Minimum allocated time per task
 
 There is a middle ground, though. You have to define uninterruptable periods of time for your important tasks. So you can work for 3-4 hours and be as responsive as you want in the next 30-40 minutes. You might define a minimum reasonable amount of time for a task as 10 or 15 minutes. Shorter tasks do not deserve a slot on your schedule. Just set a reminder for those. 
 
@@ -77,6 +77,6 @@ Then your dentist calls and reschedules your appointment for today at 2  pm. You
 
 Uncertainty lies deep within our daily lives. The world can be too complex to put the perfect plan ahead of time. So, we need to reschedule/plan on the go often. Can some of this work be outsourced to someone/something else?
 
-#### Can your phone do all the scheduling?
+## Can your phone do all the scheduling?
 
 No, it can't. At least to me, that sounds pretty absurd. But wouldn't be nice to do something like 90% of the work? Wouldn't be great to motivate you, track your progress, suggest changes and new tasks that might improve the chances of achieving your goals? Is that possible?
