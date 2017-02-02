@@ -66,7 +66,7 @@ print(paste("rows:", nrow(df), "cols:", ncol(df)))
     [1] "rows: 21613 cols: 21"
 
 
-Remove id and date columns and instruct `R` to interpret condition, view, grade and waterfront as factors.
+Remove id and date columns and instruct R to interpret condition, view, grade and waterfront as factors.
 
 
 ```R
@@ -205,7 +205,7 @@ ggcorr(df, hjust = 0.8, layout.exp = 1) +
 
 # Splitting the data
 
-We will split the data using the `caret` package. 90% will be used for training and 10% for testing.
+We will split the data using the <code>caret</code> package. 90% will be used for training and 10% for testing.
 
 
 ```R
@@ -224,7 +224,7 @@ test_labels <- test[, 1]
 
 # First attempt of building a model
 
-Let's build a decision tree with the `rpart` package using all features (except price) as predictors:
+Let's build a decision tree with the <code>rpart</code> package using all features (except price) as predictors:
 
 
 ```R
@@ -312,14 +312,14 @@ It seems that the grade, location (lat, long), square feet are important factors
 
 That was a good first attempt. Ok, it wasn't even good. So, can we do better? Let's try an ensemble of boosted trees. For good intro to boosted trees see: [Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/model.html).
 
-First, we will set up the resampling method used by `caret`. 10 cross-validation passes should do (preferably in parallel).
+First, we will set up the resampling method used by <code>caret</code>. 10 cross-validation passes should do (preferably in parallel).
 
 
 ```R
 ctrl = trainControl(method="cv", number=10, allowParallel = TRUE)
 ```
 
-Our next step is to find good parameters for `XGBoost`. See the references below to find out how to tune the parameters for your particular problem. Those are the parameters I've tried:
+Our next step is to find good parameters for <code>XGBoost</code>. See the references below to find out how to tune the parameters for your particular problem. Those are the parameters I've tried:
 
 
 ```R
