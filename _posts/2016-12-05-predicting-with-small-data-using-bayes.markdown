@@ -113,7 +113,7 @@ ggplot(df, aes(x = tars1, y = species)) + geom_point()  +
 ![png]({{site.url}}/assets/6.predicting_with_small_data_using_bayes_files/6.predicting_with_small_data_using_bayes_10_1.png)
 
 
-`tars1` shows paints pretty similar picture. How about the species distribution in general?
+<code>tars1</code> shows paints pretty similar picture. How about the species distribution in general?
 
 
 ```R
@@ -165,7 +165,7 @@ Now, let's get serious and put JAGS to a test. Here is a diagram of our model:
 
 You should try to understand that bottom to top. $y_i$ is what we are trying to ultimately predict. It is a categorical distribution. Then you move to the next level (up) where the softmax is defined and finally our normally distributed vague prior distributions.
 
-Now for our model definition. It is defined in JAGS. Almost directly taken from Kruschke's book. So it is a string in R. First, we will standardize our input X for both training and testing data. Then, our $y_i$ is defined as categorical distribution (using `dcat`) that depends on our data and vague normally distributed priors.
+Now for our model definition. It is defined in JAGS. Almost directly taken from Kruschke's book. So it is a string in R. First, we will standardize our input X for both training and testing data. Then, our $y_i$ is defined as categorical distribution (using <code>dcat</code>) that depends on our data and vague normally distributed priors.
 
 We compute $y$ for our training and testing data within our JAGS model.
 
@@ -221,7 +221,7 @@ model_string = "
 "
 ```
 
-Let's glue up everything together using `runjags`.  
+Let's glue up everything together using <code>runjags</code>.  
 
 
 ```R
