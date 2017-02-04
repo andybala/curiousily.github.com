@@ -449,6 +449,8 @@ And once again, the day is saved thanks to the powerp... the Autoencoder. It was
 - Can other models perform better? If so, when?
 - Can we incorporate uncertainty into our imputation? So we have a degree of belief of how good the imputed value is.
 
+You can think about those questions. I am gonna go eat some mushrooms.
+
 # References
 
 [Keras](https://keras.io/) - The library we used to build the Autoencoder<br/>
