@@ -443,10 +443,11 @@ Roughly 79%. Not bad considering the amount of data we have. But we haven't comp
 </div>
 
 And once again, the day is saved thanks to the powerp... the Autoencoder. It was quite fun and easy to build this model using Keras. Probably it will be even easier in the near future since Keras will be integrated directly into TensorFlow. Some questions that require further investigation remain unanswered: 
-* Is this model effective for categorical data imputation? 
-* Was our data highly correlated and easy to predict?
-* Can other models perform better? If so, when?
-* Can we incorporate uncertainty into our imputation? So we have a degree of belief of how good the imputed value is.
+
+- Is this model effective for categorical data imputation? 
+- Was our data highly correlated and easy to predict?
+- Can other models perform better? If so, when?
+- Can we incorporate uncertainty into our imputation? So we have a degree of belief of how good the imputed value is.
 
 # References
 
