@@ -253,7 +253,61 @@ The sunset was closing fast. It was just unbelievable. We were right above San F
 
 #### Google HQ
 
+One might think that visiting Google HQ will be a pleasant experience. Cool gadgets left and right. Tons of wacky experiments rolling around. Maybe I thought that Google HQ was the modern version of Bell Labs. Well, I was wrong or so it appeared.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_1.jpg)
+*Prospective candidate willing to work for below minimum wage (as apparent from his sweatpants)*
+
+Sorry about that. I know it was a bad joke, but I'll be ready when that janitor position at the 6th floor is available!
+
+Going a bit deeper into the jungle revealed what the world of a Googler actually is.
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_2.jpg)
+*Life at Google*
+
+Here are some notable stops during the (very short) tour:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_3.jpg)
+*Me and that car? We go way back - first met in my little country.*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_4.jpg)
+*Those guys were missing cool forks and stuff. Nevertheless, they were awesome!*
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/google_5.jpg)
+*Android only for tablets. What a sick idea that was!*
+
+Overall, I was pretty disappointed. We were kicked out from the main lobby as well. We couldn't peek at a single building, except for the gift shop, which was lousy too! Onwards!
+
 # Ride Along 1st
+
+It was time for us to cut our wins and head to L.A. Silicon Valley was such a cool place. I almost didn't want to leave. 
+
+We rented a car (first time ever) and started what appeared to be a totally not overrated experience! 2-day ride along the ocean with almost constant breathtaking scenery.
+
+Our first stop provided us with fresh meat, fruits and this view:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/road_1.jpg)
+*Come on, we didn't eat that bird. Or did we?*
+
+There were just so many possible stops to make:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/road_2.jpg)
+*No comment*
+
+And look at these guys:
+
+{:.center}
+![png]({{site.url}}/assets/7.to_chicaco_a_bit_further_and_back_files/road_3.jpg)
+*They were so close, but not too close*
+
+Easily, one of the most amazing days during our trip! Time for a break at Monterey.
 
 # L.A.
 
