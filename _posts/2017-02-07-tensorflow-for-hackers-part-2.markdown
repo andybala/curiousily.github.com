@@ -97,7 +97,7 @@ We will use the following formula to quantify the amount of alcohol taken during
 
 $$Alcohol=\frac{Walc \times 2 \,+\, Dalc \times 5}{7}$$
 
-The new value changes in the interval $[1, 5]$. Furthermore, we will classify student as a drinker if that value is greater than 2.
+The new value changes in the interval $$[1, 5]$$. Furthermore, we will classify student as a drinker if that value is greater than 2.
 
 
 ```python
@@ -273,7 +273,7 @@ The cost function that we are going to use is called "Cross-Entropy". It is defi
 
 $$H_{y'}(y) = -\sum_i y'_i \log(y_i)$$
 
-Where $y$ is the predicted distribution for our alcohol consumption and $y'$ is the ground truth. [This guide](https://colah.github.io/posts/2015-09-Visual-Information/) might be helpful for better understanding Cross-Entropy. TensorFlow has a little helper function with the sweet little name <code>softmax_cross_entropy_with_logits</code>. It use softmax as activation function for our output layer and use Cross-Entropy as error function.
+Where $$y$$ is the predicted distribution for our alcohol consumption and $$y'$$ is the ground truth. [This guide](https://colah.github.io/posts/2015-09-Visual-Information/) might be helpful for better understanding Cross-Entropy. TensorFlow has a little helper function with the sweet little name <code>softmax_cross_entropy_with_logits</code>. It use softmax as activation function for our output layer and use Cross-Entropy as error function.
 
 
 ```python
