@@ -20,7 +20,7 @@ Are mobile apps the final frontier for RL agents? Highly doubtful. They might be
 
 # Introducing AppGym
 
-Let's create an environment that is as fun as games and probably more useful. How hard can it be? What do you need? 
+Let's create an environment that is as fun as games and probably more useful. How hard can it be? After all, Android development is so "easy" these days. No coding required (yeah, right). So, what do you need? 
 
 ## Requirements
 
