@@ -14,11 +14,13 @@ We have 25,000 labeled pictures of dogs and cats. The data comes from Kaggle's [
 
 {:.center}
 ![jpeg]({{site.url}}/assets/14.tensorflow_for_hackers_part_3_files/1475209950357.png)
+*source: subsubroutine.com*
 
 Let's focus on a specific image. Each picture can be represented as a 3-dimensional array. We will resize all training image to *50 x 50* pixels. Here's a crazy example:
 
 {:.center}
 ![png]({{site.url}}/assets/14.tensorflow_for_hackers_part_3_files/1475211614805.png)
+*source: subsubroutine.com*
 
 Additionally, we will remove all color and turn them pictures into grayscale ones. First things first, let's prepare our environment:
 
