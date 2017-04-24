@@ -148,3 +148,5 @@ Open the *index.html* file in *app/build/reports/jacoco/jacocoTestReport/html/* 
 # Is this the best solution?
 
 No! But it is a start. There is no sure way to receive an event when the app is closing/finishing and save the report then. However, some magic tools like [ProbeDroid](https://github.com/ZSShen/ProbeDroid) might offer ways to alleviate that pain. Please, write in the comments below if other, easier, solutions exist!
+
+**UPDATE:** A (much) better approach is described in [my next blog post](http://curiousily.com/data-science/2017/04/01/introducing-appgym.html). It appears to be much faster, as well!
