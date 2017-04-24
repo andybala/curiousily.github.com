@@ -13,7 +13,7 @@ Have you ever stood still, contemplating about how cool would it be to build a m
 We have 25,000 labeled pictures of dogs and cats. The data comes from Kaggle's [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats) challenge. That's how a bunch of them look like:
 
 {:.center}
-![png]({{site.url}}/assets/14.tensorflow_for_hackers_part_3_files/1475209950357.png)
+![jpeg]({{site.url}}/assets/14.tensorflow_for_hackers_part_3_files/1475209950357.png)
 
 Let's focus on a specific image. Each picture can be represented as a 3-dimensional array. We will resize all training image to *50 x 50* pixels. Here's a crazy example:
 
