@@ -24,6 +24,7 @@ Additionally, we will remove all color and turn them pictures into grayscale one
 
 # Setting up
 
+Download the train and test zip files from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data) and extract them into your current working directory.
 
 ```python
 import cv2
@@ -47,10 +48,6 @@ IMG_SIZE = 50
 LR = 1e-3
 
 MODEL_NAME = 'dogs-vs-cats-convnet'
-```
-
-
-```python
 tf.__version__
 ```
 
