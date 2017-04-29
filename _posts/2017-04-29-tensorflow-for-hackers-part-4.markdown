@@ -514,7 +514,7 @@ plot_error(nn)
 ![png]({{site.url}}/assets/15.tensorflow_for_hackers_part_4_files/12.tensorflow_for_hackers_part_4_41_0.png)
 
 
-Good, it look like it is converging to a low value. More importantly, let's check how good our model's predictions are on training and test sets:
+Good, it look like it is converging to a low value. More importantly, let's check how good our model's predictions are on the training and test sets:
 
 
 ```python
