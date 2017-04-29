@@ -68,9 +68,9 @@ plt.show()
 ![png]({{site.url}}/assets/15.tensorflow_for_hackers_part_4_files/12.tensorflow_for_hackers_part_4_3_0.png)
 
 
-The derivative shows us the rate of change of a function. We can use it to determine the "slope" of that function. The highest rate of change for the sigmoid function is when $x=0$, as it is evident from the derivative graph (in green).
+The derivative shows us the rate of change of a function. We can use it to determine the "slope" of that function. The highest rate of change for the sigmoid function is when $$x=0$$, as it is evident from the derivative graph (in green).
 
-If your Calculus feels a bit rusty take a look at [this worked example](http://kawahara.ca/how-to-compute-the-derivative-of-a-sigmoid-function-fully-worked-example/). That should get you there.
+If your Calculus feels a bit rusty take a look at [this worked example](http://kawahara.ca/how-to-compute-the-derivative-of-a-sigmoid-function-fully-worked-example/){:target="_blank"}. That should get you there.
 
 ## Softmax
 
@@ -526,7 +526,7 @@ print('Test Accuracy: %.2f%%' % (nn.score(X_test, y_test) * 100))
     Test Accuracy: 81.65%
 
 
-Our test accuracy is not that good, especially when compared to the results obtained [via other models](http://yann.lecun.com/exdb/mnist/). Let's check the probability distribution for a single example:
+Our test accuracy is not that good, especially when compared to the results obtained [via other models](http://yann.lecun.com/exdb/mnist/){:target="_blank"}. Let's check the probability distribution for a single example:
 
 
 ```python
@@ -683,7 +683,7 @@ What a journey, right? We've learned a lot about the inner workings of the Neura
 
 # References
 
-- [Biases in NNs?](https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks)<br/>
-- [L1 and L2 Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)<br/>
-- [Learn how to do backprop from the pros](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)<br/>
-- [Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/)
+- [Biases in NNs?](https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks){:target="_blank"}<br/> 
+- [L1 and L2 Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/){:target="_blank"}<br/>
+- [Learn how to do backprop from the pros](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf){:target="_blank"}<br/>
+- [Backpropagation, Intuitions](https://cs231n.github.io/optimization-2/){:target="_blank"}
