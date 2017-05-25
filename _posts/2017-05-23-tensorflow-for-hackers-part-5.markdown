@@ -6,7 +6,7 @@ categories: ["data-science"]
 excerpt: "Have you ever wondered how predictive keyboards work? You know them - those you use or your iOS or Android phone. Let's build a model using a Recurrent Neural Network using Keras that does just that!"
 ---
 
-Welcome to another part of the series. This time we will build a model that predicts the next word (a character actually) based on a few of the previous. We will extend it a bit by asking it for 3 suggestions instead of only 1. Similar models are widely used today. You might be using one without even knowing! Here's one example:
+Welcome to another part of the series. This time we will build a model that predicts the next word (a character actually) based on a few of the previous. We will extend it a bit by asking it for 5 suggestions instead of only 1. Similar models are widely used today. You might be using one without even knowing! Here's one example:
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/5DSfFDdybzg" frameborder="0" allowfullscreen></iframe>
 
