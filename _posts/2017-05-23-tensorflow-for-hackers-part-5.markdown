@@ -17,8 +17,8 @@ Our weapon of choice for this task will be Recurrent Neural Networks (RNNs). But
 In short, RNN models provide a way to not only examine the current input but the one that was provided one step back, as well. If we turn that around, we can say that the decision reached at time step $$t - 1$$ directly affects the future at step $$t$$.
 
 {:.center}
-![jpg]({{site.url}}/assets/16.tensorflow_for_hackers_part_5_files/srn_net.png)
-*source: web.stanford.edu*
+![jpg]({{site.url}}/assets/16.tensorflow_for_hackers_part_5_files/recurrent_net.jpg)
+*source: Leonardo Araujo dos Santos’s Artificial Intelligence*
 
 It seems like a waste to throw out the memory of what you've seen so far and start from scratch every time. That's what other types of Neural Networks do. Let's end this madness!
 
