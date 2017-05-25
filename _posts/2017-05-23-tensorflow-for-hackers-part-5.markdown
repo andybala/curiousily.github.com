@@ -50,7 +50,7 @@ LSTM model is a special kind of RNN that learns long-term dependencies. It intro
 ![jpg]({{site.url}}/assets/16.tensorflow_for_hackers_part_5_files/lstm_memorycell.png)
 *source: deeplearning.net*
 
-LSTMs fight the gradient vanishing problem by preserving the error that can be backpropagated through time and layers. By maintaining a more constant error, they allow for learning long-term dependencies.
+LSTMs fight the gradient vanishing problem by preserving the error that can be backpropagated through time and layers. By maintaining a more constant error, they allow for learning long-term dependencies. On another hand, exploding is controlled with gradient clipping, that is the gradient is not allowed to go above some predefined value.
 
 # Setup
 
