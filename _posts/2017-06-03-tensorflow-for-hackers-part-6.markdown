@@ -16,7 +16,7 @@ We will use data collected from accelerometer sensors. Virtually every modern sm
 
 In this part of the series, we will train an LSTM Neural Network (implemented in TensorFlow) for Human Activity Recognition (HAR) from accelerometer data. The trained model will be exported/saved and added to an Android app. We will learn how to use it for inference from Java.
 
-__*The source code for this part is available (including the Android app) on [GitHub](https://github.com/curiousily/TensorFlow-on-Android-for-Human-Activity-Recognition-with-LSTMs).*__
+**[The source code for this part is available (including the Android app) on GitHub.](https://github.com/curiousily/TensorFlow-on-Android-for-Human-Activity-Recognition-with-LSTMs)**
 
 # The data
 
@@ -551,7 +551,7 @@ The result is a float array that contains the probability for each possible acti
 
 We've built an LSTM model that can predict human activity from 200 time-step sequence with over 97% accuracy on the test set. The model was exported and used in an Android app. I had a lot of fun testing it on my phone, but it seems like more fine tuning (or changing the dataset) is required. Did you try the app? Can you improve it?
 
-__*The source code for this part is available (including the Android app) on [GitHub](https://github.com/curiousily/TensorFlow-on-Android-for-Human-Activity-Recognition-with-LSTMs).*__
+**[The source code for this part is available (including the Android app) on GitHub.](https://github.com/curiousily/TensorFlow-on-Android-for-Human-Activity-Recognition-with-LSTMs)**
 
 # References
 
