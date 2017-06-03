@@ -216,10 +216,6 @@ for i in range(0, len(df) - N_TIME_STEPS, step):
     labels.append(label)
 ```
 
-    /Users/vini/.pyenv/versions/3.6.1/envs/curiousily_website/lib/python3.6/site-packages/scipy/stats/stats.py:253: RuntimeWarning: The input array could not be properly checked for nan values. nan values will be ignored.
-      "values. nan values will be ignored.", RuntimeWarning)
-
-
 
 ```python
 np.array(segments).shape
