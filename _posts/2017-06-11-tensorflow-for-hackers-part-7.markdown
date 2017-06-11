@@ -16,7 +16,7 @@ Annual global fraud losses reached \$21.8 billion in 2015, according to [Nilson 
 
 In this part of the series, we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
 
-**[The source code for this part is available on GitHub here.](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)**
+**[The source code and pre-trained model are available on GitHub here.](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)**
 
 # Setup
 
@@ -243,7 +243,7 @@ Here's a visual representation of what an Autoencoder might learn:
 {:.center}
 ![png]({{site.url}}/assets/fraud_detection_files/mushroom_encoder.png)
 
-## Reconstruction error
+### Reconstruction error
 
 We optimize the parameters of our Autoencoder model in such way that a special kind of error - reconstruction error is minimized. In practice, the traditional squared error is often used:
 
@@ -437,7 +437,7 @@ error_df.describe()
   </tbody>
 </table>
 
-## Reconstruction error without fraud
+### Reconstruction error without fraud
 
 
 ```python
@@ -452,7 +452,7 @@ _ = ax.hist(normal_error_df.reconstruction_error.values, bins=10)
 ![png]({{site.url}}/assets/fraud_detection_files/fraud_detection_39_0.png)
 
 
-## Reconstruction error with fraud
+### Reconstruction error with fraud
 
 
 ```python
@@ -498,7 +498,7 @@ plt.show();
 
 The ROC curve plots the true positive rate versus the false positive rate, over different threshold values. Basically, we want the blue line to be as close as possible to the upper left corner. While our results look pretty good, we have to keep in mind of the nature of our dataset. ROC doesn't look very useful for us. Onward...
 
-## Precision vs Recall
+### Precision vs Recall
 
 {:.center}
 ![]({{site.url}}/assets/fraud_detection_files/Precisionrecall.png)
@@ -623,7 +623,7 @@ We've created a very simple Deep Autoencoder in Keras that can reconstruct what 
 
 Keras gave us very clean and easy to use API to build a non-trivial Deep Autoencoder. You can search for TensorFlow implementations and see for yourself how much boilerplate you need in order to train one. Can you apply a similar model to a different problem?
 
-**[The source code for this part is available on GitHub here.](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)**
+**[The source code and pre-trained model are available on GitHub here.](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)**
 
 # References
 
