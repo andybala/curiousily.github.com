@@ -502,6 +502,7 @@ The ROC curve plots the true positive rate versus the false positive rate, over 
 
 {:.center}
 ![]({{site.url}}/assets/fraud_detection_files/Precisionrecall.png)
+*source: Wikipedia*
 
 Precision and recall are defined as follows:
 
