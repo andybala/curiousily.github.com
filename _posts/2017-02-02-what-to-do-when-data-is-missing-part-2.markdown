@@ -439,7 +439,7 @@ Roughly 79%. Not bad considering the amount of data we have. But we haven't comp
 # 4. Conclusion(s)
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/5FmL80fVMxo" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/5FmL80fVMxo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 And once again, the day is saved thanks to the powerp... the Autoencoder. It was quite fun and easy to build this model using Keras. Probably it will be even easier in the near future since Keras will be integrated directly into TensorFlow. Some questions that require further investigation remain unanswered: 

@@ -12,3 +12,16 @@
 @import
 	"syntax"
 ;
+
+
+.center {
+    text-align: center;
+}
+
+img + em {
+    display: block;
+}
+
+.MathJax {
+    font-size: 2.75em !important;
+}
