@@ -9,7 +9,7 @@ excerpt: "In this one, you will build a Neural Network which tries to decide whe
 Part 2 deserves its own introductory video:
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/WWONryXA1u8" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/WWONryXA1u8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In this one, you will learn how to create a Neural Network (NN) and use it for deciding whether a student has alcohol consumption problems.

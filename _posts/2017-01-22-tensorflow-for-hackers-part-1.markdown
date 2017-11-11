@@ -2,7 +2,7 @@
 layout: post
 title:  "TensorFlow for Hackers - Part I"
 date:   2017-01-22 16:43:00 +0300
-categories: ["data-science"]
+categories: ["data science"]
 excerpt: "Learning TensorFlow is easy and fun! Want to learn more about Machine Learning and Deep Learning in a practical and hands-on approach using TensorFlow? Let's start with a simple linear regression."
 ---
 
@@ -10,7 +10,7 @@ The ONLY way to understand TensorFlow is by watching the following video:
 
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/N_X9fPauWfI" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/N_X9fPauWfI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Now, I can safely assume that we are at the same level of understanding. Ready to fire up some tensors?

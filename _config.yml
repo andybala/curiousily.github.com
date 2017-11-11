@@ -1,48 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: Curiosily
+description: Misusings on AI, Stats & Programming
+meta_description: "Misusings on AI, Stats & Programming"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Curiousily
-email: venelin@curiousily.com
-description: "The curious quest of one fooled by randomness"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://curiousily.com" # the base hostname & protocol for your site
-#url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: curiousily
-github_username: curiousily
-
-# Build settings
 markdown: kramdown
-theme: minima
-
 highlighter: rouge
+
 kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
 
+logo: false
+paginate: 5
+baseurl: "" 
+domain_name: "http://curiousily.com"
 
 google_analytics: UA-63986975-1
 
 disqus:
   shortname: curiousily
 
-paginate: 5
-
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+
+# Details for the RSS feed generator
+url: "http://curiousily.com"
+author: "Venelin Valkov"
+author_bio: "Hi! Thanks for reading all (or some) of it. Find me at <a href='https://twitter.com/curiousily' target='_blank'>Twitter</a> or <a href='https://github.com/curiousily/' target='_blank'>GitHub</a>."
+email: venelin@curiousily.com
+
+twitter_username: curiousily
+github_username: curiousily
 
 exclude: [notebooks/]

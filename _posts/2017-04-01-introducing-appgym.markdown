@@ -9,7 +9,7 @@ excerpt: "Is it possible to use mobile apps as a training ground for your RL age
 The most important takeaway from this post is the fact that my new VIM config is pretty tight, I challenge you to find and use it yourself! Now that the fun part is over, let's begin by watching a video that was recently shown to me:
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/iFOus8ehxUc" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/iFOus8ehxUc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Puzzled? You might've figured that the video had nothing to do with the topic of this post, again? Maybe, but isn't your immune system just epic? What if the Neutrophil was the agent with a task of finding and destroying the poor bacteria in the environment of your body. We have many algorithms/models to use as brains for our agents and tons of problems to solve. Proper environments, however, tend to be scarce. I guess, something between those lines might've sparked the idea of creating [Gym by OpenAI](https://gym.openai.com/). Like that wasn't enough the same team introduced the granddaddy of all - [Universe](https://universe.openai.com/).

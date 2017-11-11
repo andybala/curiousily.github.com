@@ -140,7 +140,7 @@ How will we do it? Isn't that just too hard of a task? Convolutional Neural Netw
 In the past, people had to think of and code different kinds of features that might be relevant to the task at hand. Examples of that would be whiskers, ears, tails, legs, fur type detectors. These days, we can just use Convolutional NNs. They can learn features from raw data. How do they work?
 
 <div class="center">
-    <iframe width="100%" height="480" src="https://www.youtube.com/embed/FmpDIaiMIeA" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/FmpDIaiMIeA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Ok, got it? It was a great explanation. You can think of convolutions as small sliding lenses (let's say a *5 x 5*) that are "activated" when are placed above some feature that is familiar to them. That  way, convolutions can make sense of larger portions of the image, not just single pixels.

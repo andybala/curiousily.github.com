@@ -70,7 +70,7 @@ plt.show()
 
 The derivative shows us the rate of change of a function. We can use it to determine the "slope" of that function. The highest rate of change for the sigmoid function is when $$x=0$$, as it is evident from the derivative graph (in green).
 
-If your Calculus feels a bit rusty take a look at [this worked example](http://kawahara.ca/how-to-compute-the-derivative-of-a-sigmoid-function-fully-worked-example/){:target="_blank"}. That should get you there.
+If your Calculus feels a bit rusty take a look at [this worked example](http://kawahara.ca/how-to-compute-the-derivative-of-a-sigmoid-function-fully-worked-example/){:target="blank"}. That should get you there.
 
 ## Softmax
 
@@ -202,7 +202,7 @@ In the first step, backprop uses the data and the weights of the network to comp
 
 Let's build more intuition about what the algorithm is actually doing:
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/cCRnjHjBDFQ" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/cCRnjHjBDFQ" frameborder="0" allowfullscreen></iframe>
 
 We will try to create a Neural Network (NN) that can properly predict values from the *XOR* function. Here is its truth table:
 

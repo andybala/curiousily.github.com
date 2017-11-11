@@ -9,7 +9,7 @@ excerpt: "Yes! You've got the coolest dataset on your hard drive. Countless hour
 Let's begin by you trying to watch this video:
 
 <div class="center">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/SyWydWLmszE" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/SyWydWLmszE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This video has 300k+ views with around 1.6k positive reactions. It might be worth watching, considering it is in some cryptic foreign language (Know Bulgarian? That's how it feels to have some serious superpowers!). But you have a problem, right? You don't know what the video is all about!

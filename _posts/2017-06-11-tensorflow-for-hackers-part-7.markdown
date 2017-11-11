@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Credit Card Fraud Detection using Autoencoders in Keras - TensorFlow for Hackers (Part VII)"
+cover: https://cdn-images-1.medium.com/max/2000/1*WLWKe1fv-hSBIVkTdv51Yw.jpeg
 date:   2017-06-11 18:47:00 +0300
 categories: ["data-science"]
-excerpt: "How Anomaly Detection in credit card transactions works? In this part, we will build an Autoencoder Neural Network in Keras to distinguish between normal and fraudulent credit card transactions."
+excerpt: How Anomaly Detection in credit card transactions works? In this part, we will build an Autoencoder Neural Network in Keras to distinguish between normal and fraudulent credit card transactions.
 ---
 
 It's Sunday morning, it's quiet and you wake up with a big smile on your face. Today is going to be a great day! Except, your phone rings, rather "internationally". You pick it up slowly and hear something really bizarre - "Bonjour, je suis Michele. Oops, sorry. I am Michele, your personal bank agent.". What could possibly be so urgent for someone from Switzerland to call you at this hour? "Did you authorize a transaction for \$3,358.65 for 100 copies of Diablo 3?" Immediately, you start thinking of ways to explain why you did that to your loved one. "No, I didn't !?". Michele's answer is quick and to the point - "Thank you, we're on it". Whew, that was close! But how did Michele knew that this transaction was suspicious? After all, you did order 10 new smartphones from that same bank account, last week - Michele didn't call then.
@@ -251,7 +252,7 @@ $$\textstyle L(x,x') = ||\, x - x'||^2$$
 
 If you want to learn more about Autoencoders I highly recommend the following videos by Hugo Larochelle:
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/FzS3tMl4Nsc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/FzS3tMl4Nsc" frameborder="0" allowfullscreen></iframe>
 
 # Preparing the data
 
