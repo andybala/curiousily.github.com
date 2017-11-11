@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Credit Card Fraud Detection using Autoencoders in Keras - TensorFlow for Hackers (Part VII)"
-cover: https://cdn-images-1.medium.com/max/2000/1*WLWKe1fv-hSBIVkTdv51Yw.jpeg
 date:   2017-06-11 18:47:00 +0300
 categories: ["data-science"]
 excerpt: How Anomaly Detection in credit card transactions works? In this part, we will build an Autoencoder Neural Network in Keras to distinguish between normal and fraudulent credit card transactions.
