@@ -717,15 +717,19 @@ margin on the iframe, cause it breaks stuff. */
 .post {
     position: relative;
     width: 80%;
-    max-width: 900px;
-    font-size: 2.2rem;
+    max-width: 710px;
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
     word-break: break-word;
     hyphens: auto;
+}
+
+.single-post {
+    font-size: 2.2rem;
     line-height: 3.2rem;
-    letter-spacing: 0.07rem;
+    letter-spacing: 0.08rem;
+    max-width: 900px;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -748,6 +752,10 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 body:not(.post-template) .post-title {
+    font-size: 3.6rem;
+}
+
+body:not(.post-template) .single-post .post-title {
     font-size: 5.6rem;
 }
 
