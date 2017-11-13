@@ -717,12 +717,15 @@ margin on the iframe, cause it breaks stuff. */
 .post {
     position: relative;
     width: 80%;
-    max-width: 710px;
+    max-width: 900px;
+    font-size: 2.2rem;
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
     word-break: break-word;
     hyphens: auto;
+    line-height: 3.2rem;
+    letter-spacing: 0.07rem;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -745,7 +748,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 body:not(.post-template) .post-title {
-    font-size: 3.6rem;
+    font-size: 5.6rem;
 }
 
 .post-title a {
@@ -764,9 +767,9 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1.75rem 0 1.75rem  0;
     font-family: "Open Sans", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     line-height: 2.2rem;
     color: #9EABB3;
 }
@@ -1465,7 +1468,7 @@ body:not(.post-template) .post-title {
         height: 30%;
     }
 
-    .archive-template .main-header {
+    .rchive-template .main-header {
         max-height: 20%;
         min-height: 160px;
         padding: 10% 0;
