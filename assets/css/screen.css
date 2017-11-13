@@ -1468,7 +1468,7 @@ body:not(.post-template) .post-title {
         height: 30%;
     }
 
-    .rchive-template .main-header {
+    .archive-template .main-header {
         max-height: 20%;
         min-height: 160px;
         padding: 10% 0;
