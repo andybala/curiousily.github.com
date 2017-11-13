@@ -756,7 +756,7 @@ body:not(.post-template) .post-title {
 }
 
 body:not(.post-template) .single-post .post-title {
-    font-size: 4.5rem;
+    font-size: 5.6rem;
 }
 
 .post-title a {
@@ -1391,6 +1391,10 @@ body:not(.post-template) .single-post .post-title {
         font-size: 3.2rem;
     }
 
+    body:not(.post-template) .single-post .post-title {
+        font-size: 3.2rem;
+    }
+
     hr {
         margin: 2.4em 0;
     }
@@ -1623,6 +1627,10 @@ body:not(.post-template) .single-post .post-title {
     }
 
     body:not(.post-template) .post-title {
+        font-size: 2.5rem;
+    }
+
+    body:not(.post-template) .single-post .post-title {
         font-size: 2.5rem;
     }
 
