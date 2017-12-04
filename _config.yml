@@ -14,6 +14,7 @@ logo: false
 paginate: 5
 baseurl: "" 
 domain_name: "http://curiousily.com"
+title:  "Curiousily"
 
 google_analytics: UA-63986975-1
 
