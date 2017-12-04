@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Your Feet Rewarded - Deep Reinforcement Learning for Hackers (Part 0)"
 date:   2017-12-04 22:31:00 +0300
-categories: ["Reinforcement Learning"]
+categories: ["Reinforcement-Learning"]
 excerpt: Reinforcement Learning might sound kind of complicated at first, but demystifying it can be a really fun way to learn more about Deep Learning (yes, Neural Networks), Markov Chains and Bayesian methods. Do you accept the challenge?
 ---
 
