@@ -85,28 +85,28 @@ Markov Decision Process (MDP) is mathematical formulations of the RL problem. Th
 
 **Markov property** - the current state completely represents the state of the environment (world). That is, the future depends only on the present.
 
-An MDP can be defined by $$(S, A, R, P, \gamma)$$ where:
+An MDP can be defined by $(S, A, R, P, \gamma)$ where:
 
-- $$S$$ - set of possible states
-- $$A$$ - set of possible actions
-- $$R$$ - probability distribution of reward given (state, action) pair
-- $$P$$ - probability distribution over how likely any of the states is to be the new states, given (state, action) pair. Also known as transition probability.
-- $$\gamma$$ - reward discount factor
+- $S$ - set of possible states
+- $A$ - set of possible actions
+- $R$ - probability distribution of reward given (state, action) pair
+- $P$ - probability distribution over how likely any of the states is to be the new states, given (state, action) pair. Also known as transition probability.
+- $\gamma$ - reward discount factor
 
 ## How MDPs work
 
-At the initial time step $$t=0$$, the environment chooses initial state $$s_0 \sim p(s_0)$$. That state is used as a seed state for the following loop:
+At the initial time step $t=0$, the environment chooses initial state $s_0 \sim p(s_0)$. That state is used as a seed state for the following loop:
 
-for $$t=0$$ until done:
- - The agent selects action $$a_t$$
- - The environment chooses reward $$r_t \sim R(. \vert\, s_t, a_t)$$ and next state $$s_{t + 1} \sim P(. \vert\, s_t, a_t)$$
- - The agent receives reward $$r_t$$ and next state $$s_{t + 1}$$
+for $t=0$ until done:
+ - The agent selects action $a_t$
+ - The environment chooses reward $r_t \sim R(. \vert\, s_t, a_t)$ and next state $s_{t + 1} \sim P(. \vert\, s_t, a_t)$
+ - The agent receives reward $r_t$ and next state $s_{t + 1}$
  
 More formally, the environment does not choose, it samples from the reward and transition probability distributions.
 
-What is the objective of all this? Find a function $$\pi^*$$, known as optimal policy, that maximizes the cumulative discounted reward: $$\sum_{t > 0}\gamma^t r_t$$.
+What is the objective of all this? Find a function $\pi^*$, known as optimal policy, that maximizes the cumulative discounted reward: $\sum_{t > 0}\gamma^t r_t$.
 
-A policy $$\pi$$ is a function that maps state $$s$$ to action $$a$$, that our agent believes is the best given that state.
+A policy $\pi$ is a function that maps state $s$ to action $a$, that our agent believes is the best given that state.
 
 # Your first MDP
 
