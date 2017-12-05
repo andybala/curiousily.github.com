@@ -104,7 +104,9 @@ for $t=0$ until done:
  
 More formally, the environment does not choose, it samples from the reward and transition probability distributions.
 
-What is the objective of all this? Find a function $\pi^*$, known as optimal policy, that maximizes the cumulative discounted reward: $\sum_{t > 0}\gamma^t r_t$.
+What is the objective of all this? Find a function $\pi^*$, known as optimal policy, that maximizes the cumulative discounted reward: 
+
+$$\sum_{t \geq 0}\gamma^t r_t$$
 
 A policy $\pi$ is a function that maps state $s$ to action $a$, that our agent believes is the best given that state.
 
