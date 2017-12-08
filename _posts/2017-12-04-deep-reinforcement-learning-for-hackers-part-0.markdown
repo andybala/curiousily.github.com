@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Getting Your Feet Rewarded - Deep Reinforcement Learning for Hackers (Part 0)"
+title:  "Introduction to Reinforcement Learning - Deep Reinforcement Learning for Hackers (Part 0)"
 date:   2017-12-04 22:31:00 +0300
 categories: ["reinforcement-learning"]
-excerpt: Reinforcement Learning might sound kind of complicated at first, but demystifying it can be a really fun way to learn more about Deep Learning (yes, Neural Networks), Markov Chains and Bayesian methods. Do you accept the challenge?
+excerpt: In these series, you will build and train your own agent while learning about Deep Neural Networks, Q-learning, Bayesian Reinforcement Learning and some of their friends. All of this implemented in Python using PyTorch. Shall we?
 ---
 
 The best way to understand what Reinforcement Learning is to watch this video:
