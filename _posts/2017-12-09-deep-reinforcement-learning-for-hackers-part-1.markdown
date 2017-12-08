@@ -50,7 +50,7 @@ There is a nice relationship between all functions we defined so far. You now ha
 
 # Learning with Q-learning
 
-Let's focus on a single state $s$ and action $a$. We can express $Q(s, a)$ recursively, in terms of the Q-value of the next state $s'$:
+Let's focus on a single state $s$ and action $a$. We can express $Q(s, a)$ recursively, in terms of the Q value of the next state $s'$:
 
 $$Q(s, a) = r + \gamma \max_{a'}Q(s', a')$$
 
@@ -58,9 +58,9 @@ This equation, known as the **Bellman equation**, tells us that the maximum futu
 
 $$Q_{t+1}(s_t, a_t) = Q_t(s_t, a_t) + \alpha(r_{t+1} + \gamma \max_{a}Q_t(s_{t + 1}, a) - Q_t(s_t, a_t))$$
 
-where $\alpha$ is the learning rate that controls how much the difference between previous and new Q-value is considered.
+where $\alpha$ is the learning rate that controls how much the difference between previous and new Q value is considered.
 
-Can your agent learn anything using this? At first - no, the initial approximations will most likely be completely random/wrong. However, as the agent explore more and more of the environment, the approximated Q-values will start to converge to $Q^\*$.
+Can your agent learn anything using this? At first - no, the initial approximations will most likely be completely random/wrong. However, as the agent explore more and more of the environment, the approximated Q values will start to converge to $Q^\*$.
 
 # Building the Environment
 
