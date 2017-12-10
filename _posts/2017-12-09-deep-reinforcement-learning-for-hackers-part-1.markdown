@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solving MDP with Q-Learning - Deep Reinforcement Learning for Hackers (Part 1)"
+title:  "Solving an MDP with Q-Learning - Deep Reinforcement Learning for Hackers (Part 1)"
 date:   2017-12-09 0:31:00 +0300
 categories: ["reinforcement-learning"]
 excerpt: It is time to learn about value functions, the Bellman equation, and Q-learning. You will use all that knowledge to build an MDP and train your agent using Python. Ready to get that ice cream?
@@ -22,7 +22,7 @@ Our agent would perform great if he chooses the action that maximizes the (disco
 
 # Value function
 
-It would be great to know how "good" a given state $s$ is. Something to tell us - no matter the state you're in if you transition to state $s$ your total reward will be $x$, word! If you start from $s$ and follow policy $\pi$. That would spare us from revisiting same states over and over again. The **value function** does this for us. It depends on the state we're in $s$ and the policy $\pi$ your agent is following. It is given by:
+It would be great to know how "good" a given state $s$ is. Something to tell us: no matter the state you're in if you transition to state $s$ your total reward will be $x$, word! If you start from $s$ and follow policy $\pi$. That would spare us from revisiting same states over and over again. The **value function** does this for us. It depends on the state we're in $s$ and the policy $\pi$ your agent is following. It is given by:
 
 $$V^{\pi}(s) = \mathbb{E}(\sum_{t \geq 0}\gamma^t r_t) \quad \forall s \in \mathbb{S}$$
 
@@ -91,11 +91,9 @@ for row in grid:
     i *
     z c
 
-
+We will wrap our environment state in a class that holds the current grid and car position. Having a constant-time access to the car position on each step will help us simplify our code:
 
 ```python
-from collections import namedtuple
-
 class State:
     
     def __init__(self, grid, car_pos):
@@ -181,11 +179,11 @@ def act(state, action):
     return State(grid=new_grid, car_pos=p), reward, is_done
 ```
 
-In our case, one episode is starting from the initial state and crashing into a Zombie or eating the ice cream.
+In our case, *one episode* is starting from the initial state and crashing into a Zombie or eating the ice cream.
 
 # Learning to drive
 
-Ok, it is time to implement the Q-learning algorithm and get the ice cream. We have a really small state space, only 4 states. This allows us to keep things simple and store the computed Q values in a table. Let's start with some constants:
+Ok, it is time to implement the Q-learning algorithm and get the ice cream. We have a really small state space, only *4 states*. This allows us to keep things simple and store the computed Q values in a table. Let's start with some constants:
 
 
 ```python
@@ -299,10 +297,10 @@ sa = q(start_state)
 print(f"up={sa[UP]}, down={sa[DOWN]}, left={sa[LEFT]}, right={sa[RIGHT]}")
 ```
 
-    up=998.9999564956789, down=225.12936017286486, left=-85.10182825484765, right=586.1924520375833
+    up=998.99, down=225.12, left=-85.10, right=586.19
 
 
-Up seems the way to go, let's take that action:
+UP seems to have the highest Q value, let's take that action:
 
 
 ```python
@@ -323,7 +321,7 @@ sa = q(new_state)
 print(f"up={sa[UP]}, down={sa[DOWN]}, left={sa[LEFT]}, right={sa[RIGHT]}")
 ```
 
-    up=895.9452631578947, down=842.8767095010014, left=1000.0, right=967.1072709141274
+    up=895.94, down=842.87, left=1000.0, right=967.10
 
 
 But of course, going left will get you the ice cream! Hooray! Your agent seems to know it's way around here.
