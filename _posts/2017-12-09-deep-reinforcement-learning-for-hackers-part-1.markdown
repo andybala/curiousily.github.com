@@ -6,7 +6,13 @@ categories: ["reinforcement-learning"]
 excerpt: It is time to learn about value functions, the Bellman equation, and Q-learning. You will use all that knowledge to build an MDP and train your agent using Python. Ready to get that ice cream?
 ---
 
-This time around you will solve the MDP defined in the last part. You will get that ice cream! But first, we need a bit more learnings:
+> It is time to learn about value functions, the Bellman equation, and Q-learning. You will use all that knowledge to build an MDP and train your agent using Python. Ready to get that ice cream?
+
+Here's an example of how well-trained agents can act in their environments given the proper incentive:
+
+<div class="center">
+    <iframe src="https://www.youtube.com/embed/0Kvw2BPKjz0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # Discounted Future Reward
 
@@ -282,6 +288,8 @@ for e in range(N_EPISODES):
 
 
 Here, we use all of the helper functions defined above to ultimately train your agent to behave (hopefully) kinda optimal. We start with the initial state, at every episode, choose an action, receive reward and update our Q values. Note that the implementation looks similar to the formula for Q-learning, discussed above.
+
+You can clearly observe that the agent learns how to obtain a higher reward, really quickly. Our MDP is really small, though, and this might be just a fluke. Moreover, looking at some episodes, you can see that the agent hit a Zombie (twice).
 
 # Did it learn something?
 
