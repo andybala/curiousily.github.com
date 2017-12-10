@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solving an MDP with Q-Learning - Deep Reinforcement Learning for Hackers (Part 1)"
+title:  "Solving an MDP with Q-Learning from scratch - Deep Reinforcement Learning for Hackers (Part 1)"
 date:   2017-12-09 0:31:00 +0300
 categories: ["reinforcement-learning"]
 excerpt: It is time to learn about value functions, the Bellman equation, and Q-learning. You will use all that knowledge to build an MDP and train your agent using Python. Ready to get that ice cream?
