@@ -94,8 +94,10 @@ for row in grid:
     print(' '.join(row))
 ```
 
+```HTML
     i *
     z c
+```
 
 We will wrap our environment state in a class that holds the current grid and car position. Having a constant-time access to the car position on each step will help us simplify our code:
 
@@ -265,6 +267,7 @@ for e in range(N_EPISODES):
     print(f"Episode {e + 1}: total reward -> {total_reward}")
 ```
 
+```HTML
     Episode 1: total reward -> 999
     Episode 2: total reward -> 998
     Episode 3: total reward -> 997
@@ -285,6 +288,7 @@ for e in range(N_EPISODES):
     Episode 18: total reward -> 999
     Episode 19: total reward -> 999
     Episode 20: total reward -> 999
+```
 
 
 Here, we use all of the helper functions defined above to ultimately train your agent to behave (hopefully) kinda optimal. We start with the initial state, at every episode, choose an action, receive reward and update our Q values. Note that the implementation looks similar to the formula for Q-learning, discussed above.
@@ -305,7 +309,9 @@ sa = q(start_state)
 print(f"up={sa[UP]}, down={sa[DOWN]}, left={sa[LEFT]}, right={sa[RIGHT]}")
 ```
 
+```HTML
     up=998.99, down=225.12, left=-85.10, right=586.19
+```
 
 
 UP seems to have the highest Q value, let's take that action:
@@ -329,11 +335,13 @@ sa = q(new_state)
 print(f"up={sa[UP]}, down={sa[DOWN]}, left={sa[LEFT]}, right={sa[RIGHT]}")
 ```
 
+```HTML
     up=895.94, down=842.87, left=1000.0, right=967.10
+```
 
 
 But of course, going left will get you the ice cream! Hooray! Your agent seems to know it's way around here.
 
-Isn't this amazing? Your agent doesn't know anything about the "rules of the game", yet it manages to learn that Zombies are bad and Ice Cream is great! Also, it tries to reach the ice cream as quickly as possible. The reward seems to the ultimate signal that drives the learning process.
+Isn't this amazing? Your agent doesn't know anything about the "rules of the game", yet it manages to learn that Zombies are bad and ice cream is great! Also, it tries to reach the ice cream as quickly as possible. The reward seems to the ultimate signal that drives the learning process.
 
 We're done here! You can now build complex agents that find optimal policies quickly. Except, maybe not. This was a very simple MDP. Next, we will find how Neural Networks fit into the Reinforcement Learning framework.
