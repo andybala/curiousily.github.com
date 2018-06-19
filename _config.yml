@@ -1,6 +1,7 @@
 name: Curiosily
-description: Misusings on AI, Stats & Programming
-meta_description: "Misusings on AI, Stats & Programming"
+description: Misusings of AI, Stats & Programming
+meta_description: "Misusings of AI, Stats & Programming"
+future: true
 
 markdown: kramdown
 highlighter: rouge
