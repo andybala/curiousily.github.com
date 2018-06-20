@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Predicting the next Fibonacci number using Linear Regression in TensorFlow.js - Machine Learning in the Browser for Hackers (Part 1)"
+title:  "Predicting the next Fibonacci number with Linear Regression in TensorFlow.js - Machine Learning in the Browser for Hackers (Part 1)"
 date:   2018-06-20 18:31:00 +0300
 categories: ["machine-learning"]
 excerpt:  We're going to build a very simple Linear Regression model in TensorFlow.js and pick up some core concepts along the way - what are Tensor, Optimizer, and Variable. The Fibonacci numbers are all-powerful, some say that they even have magical powers (even though they don't contain the number that is the answer to the ultimate question of life, the universe, and everything). We're going to predict the next Fibonacci number with our simple model.
@@ -231,11 +231,122 @@ Here we just follow the formula from the above: multiply $a$ with $X$ and add $b
 
 Roughly speaking, the training of our model consists of showing data to our model, obtaining a prediction from it, evaluating how good that prediction is and feeding back that information in the training process.
 
-Evaluating the goodness of the prediction is done using a loss (or error) function. We're going to use a rather simple one - Mean Squared Error:
+### Loss function
+
+Evaluating the goodness of the prediction is done using a loss (or error) function. We're going to use a rather simple one - Mean Squared Error (MSE):
+
+$$\text{MSE} = \frac{1}{n}\sum_{i=1}^{n}(Y_i - \hat{Y_i}) ^ 2$$
+
+where $n$ is the number of $Y$ values, $Y_i$ is the $i$-th value in $Y$ and $\hat{Y_i}$ is the prediction for $X_i$ from our model.
+
+Roughly speaking, MSE measures the average squared difference between the predicted and real values. The result obtained from MSE is always non-negative. Results closer to 0 indicate that our model can make predictions using the provided data very well.
+
+Here is the MSE formula from above translated into TensorFlow.js lingo:
+
+```js
+function loss(predictions, labels) {
+    return predictions.sub(labels).square().mean();
+}
+```
+
+### The training loop
+
+With the `loss()` and `predict()` functions in place you are almost ready to train your first model in TensorFlow.js. The last missing ingredient is the *optimizer*. 
+
+The optimizer is the workhorse behind the process of finding good parameters for your model. The main job of the optimizer is to feedback the signal from the loss function so that your model is (hopefully) continuously improved. Optimization in Machine Learning is an interesting topic that we won't cover in this part of the series, but we will use one right now:
+
+```js
+const learningRate = 0.5;
+const optimizer = tf.train.sgd(learningRate);
+```
+
+We're using `SGD` optimizer with a learning rate set to $0.5$. You can think of the learning rate parameter as a knob that says how fast our model should learn from the data presented to it.  Properly setting this value is still a mystery to some, but we're getting better at it!
+
+The training loop itself is pretty tight:
+
+```js
+const numIterations = 10000;
+const errors = []
+
+for (let iter = 0; iter < numIterations; iter++) {
+    optimizer.minimize(() => {
+        const predsYs = predict(xsNorm);
+        const e = loss(predsYs, ysNorm);
+        errors.push(e.dataSync())
+        return e
+    });
+}
+```
+
+First, we set the number of iterations for which our model will see the training data. For each iteration, the error is calculated using the predicted values. The optimizer receives the error and tries to find new parameter values which minimize the error. Additionally, we record all errors for later.
 
 ## Making predictions
 
+Did our model learn something? Let's start by checking the first and last value in the errors list:
+
+```js
+console.log(errors[0])
+console.log(errors[numIterations - 1])
+```
+
+```
+Float32Array [0.29631567001342773]
+Float32Array [2.2385314901642722e-13]
+```
+
+> Note that your values might (and probably will) vary but the last value must be pretty close
+
+Would you look at that, initially our error was rather large, but at the end of the training process it is tiny!
+
+Ok, let's pick two numbers from the Fibonacci sequence and ask our model to predict the next one. Here we have them (of the top of my head):
+
+```js
+xTest = tf.tensor1d([2, 354224848179262000000])
+```
+
+Note that the second number is not in the training data.
+
+Let's unleash our model:
+
+```js
+predict(xTest).print()
+```
+
+```
+Tensor
+    [3.2360604, 573146525190143900000]
+```
+
+The true values are:
+
+```
+    [3, 573147844013817200000]
+```
+
+That looks alright for a simple model such as ours. Remember that our task was to learn/find good parameters for our model. The values for $a$ and $b$ found by our optimizer are:
+
+```js
+a.print()
+b.print()
+```
+
+```js
+Tensor
+    1.6180301904678345
+
+Tensor
+    9.997466321465254e-8
+```
+
+> Again, your values for $a$ and $b$ might differ, but not widely.
+
+Looks like the important parameter is $a$, while $b$ is pretty much useless.
+
 # Conclusion
 
-We're just getting started. In the next part we're going to see what Neural Networks are and how we can use on in TensorFlow.js
+You made it! Your first model is successfully running in the browser! It wasn't that hard, wasn't it?
+
+Luckily, we’re just getting started. In the next part, we’re going dive deeper in TensorFlow.js and train more complex models.
+
+Please, ask questions or leave feedback in the comments below. Thanks!
 
