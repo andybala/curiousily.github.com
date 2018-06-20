@@ -218,6 +218,8 @@ const a = tf.variable(tf.scalar(Math.random()))
 const b = tf.variable(tf.scalar(Math.random()))
 ```
 
+What the *Variable* wrapper does it allows the value that it holds to (surprisingly) change. The necessity for using *Variable* comes from the fact that we want to find better values for our parameters $a$ and $b$ and thus change them. Do you know why we initialize $a$ and $b$ with random numbers instead of 0?
+
 Finally, it is time to write our model in TensorFlow.js:
 
 ```js
