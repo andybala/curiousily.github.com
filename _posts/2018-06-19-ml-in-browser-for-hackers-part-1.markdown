@@ -3,8 +3,12 @@ layout: post
 title:  "Predicting the next Fibonacci number with Linear Regression in TensorFlow.js - Machine Learning in the Browser for Hackers (Part 1)"
 date:   2018-06-20 18:31:00 +0300
 categories: ["machine-learning"]
-excerpt: Ready to build models that run in the browser using only JavaScript and TensorFlow.js? Let's create a Simple Linear Regression model and pick up some core concepts along the way - Tensors, Optimizers, and Variables. Your mission, should you choose to accept it, is to create a model that predicts the next Fibonacci number while only running in the browser!
+excerpt: Ready to build models that run in the browser using only JavaScript and TensorFlow.js? Let's create a Simple Linear Regression model and pick up some core concepts along the way - Tensors, Optimizers, and Variables. Your mission, should you choose to accept it, is to create a model that given a number from the Fibonacci sequence predicts the next one while only running in the browser!
 ---
+
+Welcome to the first (or 0th) part of the series! Together we will explore the limits of what is possible (and probably impossible) with the current state of using JavaScript for Machine Learning in the browser!
+
+The complete source code can be found on [GitHub](https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/tree/master/1-linear-regression) if you want to follow along. Additionally, I've included a gist showing the complete JavaScript code at the end of the post.
 
 # What are we trying to do?
 
@@ -359,3 +363,6 @@ You made it! Your first model is successfully running in the browser! It wasn't 
 
 Please, ask questions or leave feedback in the comments below. Thanks!
 
+P.S. You can find the complete source code on [GitHub](https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/tree/master/1-linear-regression) or have a look at the gist:
+
+<script src="https://gist.github.com/curiousily/2a8fb08d0e20961256f5a88cb7b8e10d.js"></script>
