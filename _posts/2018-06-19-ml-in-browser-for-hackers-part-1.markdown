@@ -31,7 +31,7 @@ $$Y = aX + b$$
 What $a$ - "slope" and $b$ - "intercept" are parameters for our model. And TensorFlow.js is going to help us find their values. That is, find values that best describe our data. Want to see what the process looks like? Here is a picture:
 
 {:.center}
-![png](https://cdn-images-1.medium.com/max/1600/1*eeIvlwkMNG1wSmj3FR6M2g.gif)
+![png]({{site.url}}/assets/ml_in_browser_part_1_files/linear_regression_training.gif)
 *Source: [Towards Data Science](https://towardsdatascience.com/linear-regression-the-easier-way-6f941aa471ea)*
 
 What you're observing is the process of fitting the straight line through an example dataset. You can see that the line (that is, the model) starts at some crappy position and after some training (indicated by the increasing number of iterations) it is right in the middle of our data. Note that there are points that are far away from our line. Is this an issue? That's a topic for another discussion.
