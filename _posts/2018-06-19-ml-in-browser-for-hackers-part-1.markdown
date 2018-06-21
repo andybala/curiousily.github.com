@@ -8,7 +8,7 @@ excerpt: Ready to build models that run in the browser using only JavaScript and
 
 Welcome to the first (or 0th) part of the series! Together we will explore the limits of what is possible (and probably impossible) with the current state of using JavaScript for Machine Learning in the browser!
 
-The complete source code can be found on [GitHub](https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/tree/master/1-linear-regression) if you want to follow along. Additionally, I've included a gist showing the complete JavaScript code at the end of the post.
+The complete source code can be found on [GitHub](https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/tree/master/1-linear-regression) if you want to follow along. Additionally, I've included a gist showing the complete JavaScript code at the end of the post. [Here is a link to a Live Demo](https://htmlpreview.github.io/?https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/blob/master/1-linear-regression/index.html), you must open your browser console to see the results.
 
 # What are we trying to do?
 
