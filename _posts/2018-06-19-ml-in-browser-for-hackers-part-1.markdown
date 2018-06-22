@@ -6,6 +6,12 @@ categories: ["machine-learning"]
 excerpt: Ready to build models that run in the browser using only JavaScript and TensorFlow.js? Let's create a Simple Linear Regression model and pick up some core concepts along the way - Tensors, Optimizers, and Variables. Your mission, should you choose to accept it, is to create a model that given a number from the Fibonacci sequence predicts the next one while only running in the browser!
 ---
 
+<div class="center">
+    <iframe src="https://www.youtube.com/embed/gDK9Phy8GmY" frameborder="0" allowfullscreen></iframe>
+    Let’s walk through this tutorial together!
+</div>
+<br/>
+
 Welcome to the first (or 0th) part of the series! Together we will explore the limits of what is possible (and probably impossible) with the current state of using JavaScript for Machine Learning in the browser!
 
 The complete source code can be found on [GitHub](https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/tree/master/1-linear-regression) if you want to follow along. Additionally, I've included a gist showing the complete JavaScript code at the end of the post. [Here is a link to a Live Demo](https://htmlpreview.github.io/?https://github.com/curiousily/Machine-Learning-in-the-Browser-for-Hackers/blob/master/1-linear-regression/index.html), you must open your browser console to see the results.
